@@ -1,0 +1,59 @@
+/* start: table filter */
+.TextImage--tableFilter{
+	display:flex;
+	gap:1.5rem;
+	width:100%
+}
+@media(max-width: 700px){
+	.TextImage--tableFilter{
+		display:flex;
+		gap:1rem;
+		flex-wrap:wrap
+	}
+}
+.TextImage--tableFilter--wrapper{
+	position:relative;
+	flex-grow:1;
+	max-width:450px
+}
+
+.Input[placeholder]:not(:-moz-placeholder-shown)~.TextImage--tableFilter--reset{
+	display:inline-flex
+}
+.Input[placeholder]:not(:placeholder-shown)~.TextImage--tableFilter--reset{
+	display:inline-flex
+}
+.TextImage--tableFilter--reset{
+	position:absolute;
+	right:0;
+	top:0;
+	bottom:0;
+	width:50px;
+	display:none;
+	align-items:center;
+	justify-content:center
+}
+.TextImage--tableFilter--reset>.cross{
+	position:relative;
+	width:10px;
+	height:10px;
+	display:block
+}
+.TextImage--tableFilter--reset>.cross::before,.TextImage--tableFilter--reset>.cross::after{
+	content:"";
+	display:block;
+	position:absolute;
+	width:100%;
+	top:50%;
+	margin-top:-0.5px;
+	height:1px;
+	background-color:rgba(var(--c-grey),1);
+	border-radius:1px
+}
+.TextImage--tableFilter--reset>.cross::before{
+	transform:rotate(-45deg)
+}
+.TextImage--tableFilter--reset>.cross::after{
+	transform:rotate(45deg)
+}
+/* end: table filter */
