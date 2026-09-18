@@ -1,9 +1,10 @@
-# app.py
 import random
 import string
 import streamlit as st
 
-st.set_page_config(page_title="Hangman", page_icon="🪢", layout="centered")
+st.set_page_config(page_title="Word Guesser", page_icon="💬", layout="centered")
+
+## app is hosted at: https://hangman-game-test.streamlit.app/
 
 HANGMANPICS = [
     r"""
@@ -135,11 +136,11 @@ if "word" not in st.session_state:
     new_game()
 
 # --------------------- UI --------------------- #
-st.title("🪢 Hangman")
+st.title("💬 Word Guesser")
 
 top_cols = st.columns([1, 1])
 with top_cols[0]:
-    st.subheader("Gallows")
+    st.subheader("Poor guy in 18th century")
     st.code(HANGMANPICS[st.session_state.wrong])
 
 with top_cols[1]:

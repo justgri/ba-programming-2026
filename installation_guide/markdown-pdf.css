@@ -1,0 +1,25 @@
+.page-break { page-break-after: always; break-after: page; }
+
+/* Make H1–H3 bold */
+h1, h2, h3 {
+  font-weight: 700;        /* ensure bold even if theme changes */
+}
+
+/* Underline H2 as well */
+h2 {
+  text-decoration-line: underline;
+  text-decoration-thickness: from-font; /* or: 2px */
+  text-underline-offset: 3px;           /* a little breathing room */
+}
+
+/* (Optional) tidy heading spacing for print */
+h1 { margin: 1.2em 0 0.5em; }
+h2 { margin: 1.1em 0 0.5em; }
+h3 { margin: 1.0em 0 0.4em; }
+
+img {
+  width: 50%;
+  height: auto;
+  display: block;       /* lets us center */
+  margin: 0.5em auto;   /* center horizontally */
+}
