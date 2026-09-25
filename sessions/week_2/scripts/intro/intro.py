@@ -10,8 +10,8 @@ from pathlib import Path
 
 import numpy as np
 
-import my_library
-from my_library import city, ticket_price
+import my_module
+from my_module import city, ticket_price
 
 # Topic 1 - Object Types
 #
@@ -196,9 +196,9 @@ print("Average price:", np.mean(prices))
 print("Square root of 81:", math.sqrt(81))
 
 
-# A local .py file can also be imported as a module. The companion my_library.py
-# is in this script's folder. At the top, from my_library import city, ticket_price
-# imports selected variables, while import my_library imports the whole module.
+# A local .py file can also be imported as a module. The companion my_module.py
+# is in this script's folder. At the top, from my_module import city, ticket_price
+# imports selected variables, while import my_module imports the whole module.
 # Access its variables and functions with a dot. Omit .py in import statements.
 # Python runs a module's top-level code on its first import in a process.
 
@@ -210,5 +210,5 @@ print("Ticket price:", ticket_price, "CHF")
 
 # Access the whole local module imported at the top
 
-print("Currency:", my_library.currency)
-print("Cost of 3 tickets:", my_library.total_cost(3), my_library.currency)
+print("Currency:", my_module.currency)
+print("Cost of 3 tickets:", my_module.total_cost(3), my_module.currency)

@@ -264,7 +264,7 @@ st.write("Square root of 81:", math.sqrt(81))
 
 
 st.markdown(
-    """A local `.py` file can also be imported as a **module**. The companion `my_library.py` is in this notebook's folder; run with `intro` as the working directory.
+    """A local `.py` file can also be imported as a **module**. The companion `my_module.py` is in this notebook's folder; run with `intro` as the working directory.
 `from ... import ...` imports selected variables; `import ...` imports the whole module, whose variables and functions you access with a dot. Omit `.py` in both forms.
 Python runs a module's top-level code on its first import in a kernel session.
 """
@@ -272,13 +272,13 @@ Python runs a module's top-level code on its first import in a kernel session.
 
 
 # Import selected variables from the local script
-from my_library import city, ticket_price
+from my_module import city, ticket_price
 
 st.write("City:", city)
 st.write("Ticket price:", ticket_price, "CHF")
 
 # Import the whole local script as a module
-import my_library
+import my_module
 
-st.write("Currency:", my_library.currency)
-st.write("Cost of 3 tickets:", my_library.total_cost(3), my_library.currency)
+st.write("Currency:", my_module.currency)
+st.write("Cost of 3 tickets:", my_module.total_cost(3), my_module.currency)
