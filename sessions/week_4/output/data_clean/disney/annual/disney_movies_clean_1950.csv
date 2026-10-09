@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0042332,movie,Cinderella,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",English,USA,1950,1950-03-04,74,7.3,85.0,139378,G,usa,english,0.85,0.73,0.79,0.79,good,good
+tt0043063,movie,Trailer Horn,Jack Hannah,English,USA,1950,1950-04-28,6,7.1,,359,,usa,english,,0.71,,0.71,good,good
+tt0043067,movie,Treasure Island,Byron Haskin,English,UK,1950,1950-07-19,96,6.9,89.0,6611,PG,other,english,0.89,0.6900000000000001,0.79,0.79,bad,mid

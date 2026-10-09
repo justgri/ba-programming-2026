@@ -1,0 +1,3 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0024451,movie,The Pied Piper,Wilfred Jackson,English,USA,1933,1933-09-16,8,6.7,,659,,usa,english,,0.67,,0.67,bad,mid
+tt0024660,movie,Three Little Pigs,Burt Gillett,English,USA,1933,1933-05-27,9,7.5,,4805,Passed,usa,english,,0.75,,0.75,good,good

@@ -1,0 +1,3 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0058056,movie,Emil and the Detectives,Peter Tewksbury,English,USA,1964,1964-12-18,99,6.2,,390,PG,usa,english,,0.62,,0.62,bad,mid
+tt0058331,movie,Mary Poppins,Robert Stevenson,English,USA,1964,1965-06-18,139,7.8,88.0,151417,G,usa,english,0.88,0.78,0.8300000000000001,0.8300000000000001,good,good

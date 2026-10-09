@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0052722,movie,Darby O'Gill and the Little People,Robert Stevenson,"English, Irish",USA,1959,1960-06-22,93,7.2,,6664,Approved,usa,english_other,,0.72,,0.72,good,good
+tt0052948,movie,Journey to the Center of the Earth,Henry Levin,"English, Swedish, French, Italian, Russian",USA,1959,1959-12-01,129,7.0,,15008,Approved,usa,english_other,,0.7,,0.7,good,good
+tt0053285,movie,Sleeping Beauty,"Clyde Geronimi, Les Clark, Hamilton Luske, Wolfgang Reitherman",English,USA,1959,1959-12-25,75,7.2,85.0,129694,G,usa,english,0.85,0.72,0.7849999999999999,0.7849999999999999,good,good
+tt0053271,movie,The Shaggy Dog,Charles Barton,English,USA,1959,1959-03-19,104,6.5,45.0,4080,Approved,usa,english,0.45,0.65,0.55,0.55,bad,mid

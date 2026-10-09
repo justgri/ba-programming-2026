@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0026816,movie,On Ice,Ben Sharpsteen,English,USA,1935,1935-09-28,8,7.5,,1056,,usa,english,,0.75,,0.75,good,good
+tt0026094,movie,The Band Concert,Wilfred Jackson,English,USA,1935,1935-02-23,9,7.9,,2714,TV-Y7,usa,english,,0.79,,0.79,good,good
+tt0026423,movie,The Golden Touch,Walt Disney,English,USA,1935,1935-03-22,10,6.9,,856,,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0027126,movie,The Tortoise and the Hare,Wilfred Jackson,English,USA,1935,1935-01-05,9,7.2,,2028,Approved,usa,english,,0.72,,0.72,good,good

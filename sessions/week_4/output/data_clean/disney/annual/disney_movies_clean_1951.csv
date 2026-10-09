@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0043274,movie,Alice in Wonderland,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",English,USA,1951,1951-09-14,75,7.4,68.0,123377,G,usa,english,0.68,0.74,0.71,0.71,good,good
+tt0043428,movie,Corn Chips,Jack Hannah,English,USA,1951,1951-03-23,7,7.4,,483,APPROVED,usa,english,,0.74,,0.74,good,good
+tt0043839,movie,Nature's Half Acre,James Algar,English,USA,1951,1951-07-28,33,7.7,,86,PASSED,usa,english,,0.77,,0.77,good,good
+tt0043890,movie,Out of Scale,Jack Hannah,English,USA,1951,1951-11-02,7,7.6,,504,,usa,english,,0.76,,0.76,good,good

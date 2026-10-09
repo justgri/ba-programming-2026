@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0103639,movie,Aladdin,"Ron Clements, John Musker",English,USA,1992,1992-11-25,90,8.0,86.0,356283,G,usa,english,0.86,0.8,0.8300000000000001,0.8300000000000001,good,good
+tt0104437,movie,"Honey, I Blew Up the Kid",Randal Kleiser,English,USA,1992,1992-07-17,89,4.8,50.0,39775,PG,usa,english,0.5,0.48,0.49,0.49,bad,bad
+tt0104990,movie,Newsies,Kenny Ortega,English,USA,1992,1992-04-10,121,7.0,46.0,18094,PG,usa,english,0.46,0.7,0.58,0.58,good,good
+tt0105417,movie,Sister Act,Emile Ardolino,English,USA,1992,1992-05-29,100,6.4,51.0,83764,PG,usa,english,0.51,0.64,0.575,0.575,bad,mid
+tt0104940,movie,The Muppet Christmas Carol,Brian Henson,English,"USA, UK",1992,1992-12-11,85,7.7,64.0,45861,G,usa_other,english,0.64,0.77,0.7050000000000001,0.7050000000000001,good,good

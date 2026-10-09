@@ -1,0 +1,17 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0230011,movie,Atlantis: The Lost Empire,"Gary Trousdale, Kirk Wise","English, French, Spanish",USA,2001,2001-06-22,95,6.9,52.0,98258,PG,usa,english_other,0.52,0.6900000000000001,0.605,0.605,bad,mid
+tt0291082,movie,Cinderella 2: Dreams Come True,John Kafka,English,USA,2001,2002-02-26,73,5.0,,9985,G,usa,english,,0.5,,0.5,bad,mid
+tt0240462,movie,Dr. Dolittle 2,Steve Carr,English,USA,2001,2001-06-22,87,4.7,49.0,40531,PG,usa,english,0.49,0.47000000000000003,0.48,0.48,bad,bad
+tt0274761,movie,Halloweentown II: Kalabar's Revenge,Mary Lambert,English,USA,2001,2001-10-12,81,6.5,,6476,TV-PG,usa,english,,0.65,,0.65,bad,mid
+tt0274557,movie,Hounded,Neal Israel,English,USA,2001,2001-04-01,91,5.1,,894,TV-G,usa,english,,0.51,,0.51,bad,mid
+tt0271172,movie,Jumping Ship,Michael Lange,English,"Australia, USA",2001,2001-08-17,93,6.2,,1603,TV-G,usa_other,english,,0.62,,0.62,bad,mid
+tt0249677,movie,Lady and the Tramp 2: Scamp's Adventure,"Darrell Rooney, Jeannine Roussel(co-director)",English,"USA, Australia",2001,2001-02-27,69,5.9,,9837,G,usa_other,english,,0.5900000000000001,,0.5900000000000001,bad,mid
+tt0274636,movie,The Luck of the Irish,Paul Hoen,English,USA,2001,2001-03-09,86,6.2,,6337,TV-G,usa,english,,0.62,,0.62,bad,mid
+tt0198781,movie,"Monsters, Inc.","Pete Docter, David Silverman(co-director), Lee Unkrich(co-director)",English,USA,2001,2001-11-02,92,8.0,79.0,779728,G,usa,english,0.79,0.8,0.795,0.795,good,good
+tt0273842,movie,Motocrossed,Steve Boyum,English,USA,2001,2001-02-16,110,6.6,,4203,TV-G,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt0265632,movie,Recess: School's Out,Chuck Sheetz,English,"USA, Japan",2001,2001-02-16,82,6.6,43.0,9032,G,usa_other,english,0.43,0.6599999999999999,0.5449999999999999,0.5449999999999999,bad,mid
+tt0274728,movie,The Poof Point,Neal Israel,English,USA,2001,2001-09-14,90,4.7,,466,TV-G,usa,english,,0.47000000000000003,,0.47000000000000003,bad,bad
+tt0247638,movie,The Princess Diaries,Garry Marshall,"English, Dutch, Italian","USA, UK",2001,2001-08-03,111,6.3,52.0,123037,G,usa_other,english_other,0.52,0.63,0.575,0.575,bad,mid
+tt0301935,movie,Three Days,Michael Switzer,English,USA,2001,2001-12-09,100,7.2,,867,TV-G,usa,english,,0.72,,0.72,good,good
+tt0282223,movie,'Twas the Night,Nick Castle,English,USA,2001,2001-12-07,84,5.5,,719,TV-G,usa,english,,0.55,,0.55,bad,mid
+tt0271271,movie,Zenon: The Zequel,Manny Coto,English,"USA, New Zealand",2001,2001-01-12,100,5.9,,3318,TV-G,usa_other,english,,0.5900000000000001,,0.5900000000000001,bad,mid

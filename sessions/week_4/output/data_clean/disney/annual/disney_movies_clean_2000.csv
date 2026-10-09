@@ -1,0 +1,23 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0211181,movie,102 Dalmatians,Kevin Lima,English,"USA, UK",2000,2000-11-22,100,4.9,35.0,33444,G,usa_other,english,0.35,0.49000000000000005,0.42000000000000004,0.42000000000000004,bad,bad
+tt0217990,movie,Alley Cats Strike,Rod Daniel,English,"USA, Canada",2000,2000-03-18,103,6.2,,1840,TV-G,usa_other,english,,0.62,,0.62,bad,mid
+tt0208185,movie,An Extremely Goofy Movie,Douglas McCarthy,English,"USA, Australia",2000,2000-02-29,79,6.4,,9244,G,usa_other,english,,0.64,,0.64,bad,mid
+tt0130623,movie,Dinosaur,"Eric Leighton, Ralph Zondag",English,USA,2000,2000-05-19,82,6.5,56.0,50895,PG,usa,english,0.56,0.65,0.605,0.605,bad,mid
+tt0219854,movie,The Kid,Jon Turteltaub,English,USA,2000,2000-07-07,104,6.1,45.0,39194,PG,usa,english,0.45,0.61,0.53,0.53,bad,mid
+tt0248808,movie,For the Birds,Ralph Eggleston,,USA,2000,2001-11-02,3,8.0,,28126,G,usa,,,0.8,,0.8,good,good
+tt0218440,movie,Miracle in Lane 2,Greg Beeman,English,USA,2000,2000-05-13,120,6.0,,1835,G,usa,english,,0.6,,0.6,bad,mid
+tt0250593,movie,Mom's Got a Date with a Vampire,Steve Boyum,English,"Canada, USA",2000,2000-10-13,85,5.9,,3300,TV-PG,usa_other,english,,0.5900000000000001,,0.5900000000000001,bad,mid
+tt0266850,movie,Phantom of the Megaplex,Blair Treu,English,"USA, Canada",2000,2000-11-10,89,6.5,,2570,TV-G,usa_other,english,,0.65,,0.65,bad,mid
+tt0245380,movie,Quints,Bill Corcoran,English,"Canada, USA",2000,2000-08-18,83,5.7,,2030,TV-G,usa_other,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt0253550,movie,Ready to Run,Duwayne Dunham,English,"USA, New Zealand",2000,2000-07-14,96,5.3,,282,TV-G,usa_other,english,,0.53,,0.53,bad,mid
+tt0210945,movie,Remember the Titans,Boaz Yakin,English,USA,2000,2000-09-29,113,7.8,48.0,190945,PG,usa,english,0.48,0.78,0.63,0.63,good,good
+tt0244764,movie,Rip Girls,Joyce Chopra,English,"Australia, USA",2000,2000-04-22,87,6.2,,1135,TV-G,usa_other,english,,0.62,,0.62,bad,mid
+tt0250754,movie,Stepsister from Planet Weird,Steve Boyum,English,USA,2000,2000-06-17,85,6.0,,1317,TV-G,usa,english,,0.6,,0.6,bad,mid
+tt0213565,movie,The Color of Friendship,Kevin Hooks,English,"Canada, USA",2000,2000-02-05,87,7.4,,3027,TV-G,usa_other,english,,0.74,,0.74,good,good
+tt0120917,movie,The Emperor's New Groove,Mark Dindal,English,USA,2000,2000-12-15,78,7.3,70.0,171721,G,usa,english,0.7,0.73,0.715,0.715,good,good
+tt0240684,movie,The Little Mermaid 2: Return to the Sea,"Jim Kammerud, Brian Smith(co-director)",English,"USA, Canada, Australia, Taiwan",2000,2000-09-19,75,5.6,,16648,G,usa_other,english,,0.5599999999999999,,0.5599999999999999,bad,mid
+tt0246834,movie,The Other Me,Manny Coto,English,USA,2000,2000-09-08,90,6.1,,1741,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt0220099,movie,The Tigger Movie,Jun Falkenstein,English,"USA, Japan",2000,2000-02-11,77,6.3,53.0,16402,G,usa_other,english,0.53,0.63,0.5800000000000001,0.5800000000000001,bad,mid
+tt0256466,movie,The Ultimate Christmas Present,Greg Beeman,English,"Canada, USA",2000,2000-12-01,85,5.9,,1478,TV-G,usa_other,english,,0.5900000000000001,,0.5900000000000001,bad,mid
+tt0211174,movie,"Up, Up, and Away!",Robert Townsend,English,"Canada, USA",2000,2000-01-22,90,5.6,,1736,TV-G,usa_other,english,,0.5599999999999999,,0.5599999999999999,bad,mid
+tt0185007,movie,Whispers: An Elephant's Tale,Dereck Joubert,English,USA,2000,2000-03-10,72,5.0,30.0,252,G,usa,english,0.3,0.5,0.4,0.4,bad,mid

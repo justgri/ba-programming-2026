@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0094739,movie,Big Business,Jim Abrahams,"English, Italian",USA,1988,1988-06-10,97,6.4,53.0,11575,PG,usa,english_other,0.53,0.64,0.585,0.585,bad,mid
+tt0095776,movie,Oliver & Company,George Scribner,English,USA,1988,1988-11-18,74,6.7,58.0,41874,G,usa,english,0.58,0.67,0.625,0.625,bad,mid
+tt0096273,movie,Tin Toy,John Lasseter,English,USA,1988,1988-12-30,5,6.5,,9253,G,usa,english,,0.65,,0.65,bad,mid
+tt0096438,movie,Who Framed Roger Rabbit,"Robert Zemeckis, Richard Williams",English,USA,1988,1988-06-22,104,7.7,83.0,175505,PG,usa,english,0.83,0.77,0.8,0.8,good,good
+tt0096446,movie,Willow,Ron Howard,English,USA,1988,1988-05-20,126,7.3,47.0,97309,PG,usa,english,0.47,0.73,0.6,0.6,good,good

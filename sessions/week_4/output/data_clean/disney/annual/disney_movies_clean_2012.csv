@@ -1,0 +1,17 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt1217209,movie,Brave,"Mark Andrews, Brenda Chapman, Steve Purcell(co-director)",English,"USA, UK",2012,2012-06-22,93,7.1,69.0,357239,PG,usa_other,english,0.69,0.71,0.7,0.7,good,good
+tt2326087,movie,Girl Vs. Monster,Stuart Gillard,English,"USA, Canada",2012,2012-10-12,89,5.5,,2403,TV-PG,usa_other,english,,0.55,,0.55,bad,mid
+tt1222815,movie,Chimpanzee,"Alastair Fothergill, Mark Linfield",English,"Tanzania, USA",2012,2012-04-20,78,7.2,57.0,5708,G,usa_other,english,0.57,0.72,0.645,0.645,good,good
+tt1142977,movie,Frankenweenie,Tim Burton,English,USA,2012,2012-10-05,87,6.9,74.0,94078,PG,usa,english,0.74,0.6900000000000001,0.7150000000000001,0.7150000000000001,bad,mid
+tt1865368,movie,Frenemies,Daisy von Scherler Mayer,English,USA,2012,2012-01-13,87,5.0,,3969,TV-G,usa,english,,0.5,,0.5,bad,mid
+tt0401729,movie,John Carter,Andrew Stanton,English,USA,2012,2012-03-09,132,6.6,51.0,248903,PG-13,usa,english,0.51,0.6599999999999999,0.585,0.585,bad,mid
+tt2165933,movie,Let It Shine,Paul Hoen,English,USA,2012,2012-06-01,104,6.4,,2731,TV-G,usa,english,,0.64,,0.64,bad,mid
+tt0848228,movie,The Avengers,Joss Whedon,"English, Russian, Hindi",USA,2012,2012-05-04,143,8.0,69.0,1225316,PG-13,usa,english_other,0.69,0.8,0.745,0.745,good,good
+tt0485985,movie,Red Tails,Anthony Hemingway,"English, Italian, German",USA,2012,2012-01-20,125,5.9,46.0,32647,PG-13,usa,english_other,0.46,0.5900000000000001,0.525,0.525,bad,mid
+tt2414212,movie,Santa Paws 2: The Santa Pups,Robert Vince,English,USA,2012,2012-11-20,88,4.9,,1100,G,usa,english,,0.49000000000000005,,0.49000000000000005,bad,bad
+tt1217213,movie,Secret of the Wings,"Roberts Gannaway, Peggy Holmes",English,"USA, India, UK",2012,2012-12-14,75,7.1,,10155,G,usa_other,english,,0.71,,0.71,good,good
+tt2565938,movie,The Legend of Mor'du,Brian Larsen,English,USA,2012,2012-12-05,7,6.2,,1084,,usa,english,,0.62,,0.62,bad,mid
+tt2490352,movie,The Mistle-Tones,Paul Hoen,English,USA,2012,2012-12-09,90,6.7,,1843,TV-PG,usa,english,,0.67,,0.67,bad,mid
+tt1462769,movie,The Odd Life of Timothy Green,Peter Hedges,English,USA,2012,2012-08-15,105,6.6,47.0,43976,PG,usa,english,0.47,0.6599999999999999,0.565,0.565,bad,mid
+tt2543062,movie,Winged Seduction: Birds of Paradise,Molly Hermann,English,USA,2012,2012-11-22,,6.5,,10,,usa,english,,0.65,,0.65,bad,mid
+tt1772341,movie,Wreck-It Ralph,Rich Moore,English,USA,2012,2012-11-02,101,7.7,72.0,365043,PG,usa,english,0.72,0.77,0.745,0.745,good,good

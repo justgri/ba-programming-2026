@@ -1,0 +1,19 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0120623,movie,A Bug's Life,"John Lasseter, Andrew Stanton(co-director)",English,USA,1998,1998-11-25,95,7.2,77.0,257065,G,usa,english,0.77,0.72,0.745,0.745,good,good
+tt0167038,movie,Belle's Magical World,"Bob Kline, Cullen Blaine, Dale Case, Daniel de la Vega, Barbara Dourmaskin-Case, Rick Leon, Burt Medall, Mitch Rochon",English,USA,1998,1998-02-16,92,5.4,,2425,G,usa,english,,0.54,,0.54,bad,mid
+tt0162212,movie,Brink!,Greg Beeman,English,USA,1998,1998-08-29,99,7.1,,5328,TV-G,usa,english,,0.71,,0.71,good,good
+tt0118998,movie,Doctor Dolittle,Betty Thomas,English,USA,1998,1998-06-26,85,5.4,46.0,89150,PG-13,usa,english,0.46,0.54,0.5,0.5,bad,mid
+tt0173886,movie,Halloweentown,Duwayne Dunham,English,USA,1998,1998-10-17,84,6.8,,11872,TV-G,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0155753,movie,I'll Be Home for Christmas,Arlene Sanford,English,"USA, Canada",1998,1998-11-13,86,5.5,,8812,PG,usa_other,english,,0.55,,0.55,bad,mid
+tt0120645,movie,Meet the Deedles,Steve Boyum,English,USA,1998,1998-03-27,93,4.1,,2567,PG,usa,english,,0.41,,0.41,bad,bad
+tt0120751,movie,Mighty Joe Young,Ron Underwood,"English, Swahili",USA,1998,1998-12-25,114,5.6,51.0,26795,PG,usa,english_other,0.51,0.5599999999999999,0.5349999999999999,0.5349999999999999,bad,mid
+tt0157996,movie,Miracle at Midnight,Ken Cameron,English,USA,1998,1998-05-17,90,7.0,,293,,usa,english,,0.7,,0.7,good,good
+tt0120762,movie,Mulan,"Tony Bancroft, Barry Cook","English, Mandarin",USA,1998,1998-06-19,88,7.6,71.0,237755,G,usa,english_other,0.71,0.76,0.735,0.735,good,good
+tt0143808,movie,Pocahontas II: Journey to a New World,"Tom Ellery, Bradley Raymond",English,USA,1998,1998-08-25,72,4.9,,13201,G,usa,english,,0.49000000000000005,,0.49000000000000005,bad,bad
+tt0155110,movie,Richie Rich's Christmas Wish,John Murlowski,English,USA,1998,1998-11-10,84,4.1,,1960,G,usa,english,,0.41,,0.41,bad,bad
+tt0138068,movie,Ruby Bridges,Euzhan Palcy,English,USA,1998,1998-01-18,96,7.2,,607,,usa,english,,0.72,,0.72,good,good
+tt0147926,movie,The Brave Little Toaster Goes to Mars,"Robert C. Ramirez, Patrick A. Ventura",English,USA,1998,1998-05-18,73,5.7,,1333,Not Rated,usa,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt0144262,movie,The Jungle Book: Mowgli's Story,Nick Marck,English,USA,1998,1998-09-28,77,4.2,,625,G,usa,english,,0.42000000000000004,,0.42000000000000004,bad,bad
+tt0120131,movie,The Lion King 2: Simba's Pride,"Darrell Rooney, Rob LaDuca(co-director)",English,"USA, Australia",1998,1998-10-27,81,6.5,,58256,G,usa_other,english,,0.65,,0.65,bad,mid
+tt0120783,movie,The Parent Trap,Nancy Meyers,"English, French","USA, UK",1998,1998-07-29,128,6.5,64.0,114898,PG,usa_other,english_other,0.64,0.65,0.645,0.645,bad,mid
+tt0153992,movie,You Lucky Dog,Paul Schneider,English,USA,1998,1998-06-27,89,4.7,,526,TV-G,usa,english,,0.47000000000000003,,0.47000000000000003,bad,bad

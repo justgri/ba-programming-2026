@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0022647,movie,Babes in the Woods,Burt Gillett,English,USA,1932,1932-11-19,8,6.8,,799,Approved,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0022899,movie,Flowers and Trees,Burt Gillett,English,USA,1932,1932-07-30,8,7.5,,1547,APPROVED,usa,english,,0.75,,0.75,good,good
+tt0023422,movie,Santa's Workshop,Wilfred Jackson,English,USA,1932,1932-12-10,7,7.4,,1320,,usa,english,,0.74,,0.74,good,good

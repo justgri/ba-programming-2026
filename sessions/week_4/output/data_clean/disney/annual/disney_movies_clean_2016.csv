@@ -1,0 +1,20 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt5929776,movie,Before the Flood,Fisher Stevens,English,USA,2016,2016-10-30,96,8.3,63.0,25171,PG,usa,english,0.63,0.8300000000000001,0.73,0.73,good,good
+tt4456850,movie,Adventures in Babysitting,John Schultz,English,USA,2016,2016-06-17,105,6.0,,2582,TV-G,usa,english,,0.6,,0.6,bad,mid
+tt4629266,movie,Born in China,Chuan Lu,"English, Chinese","UK, China, USA",2016,2017-04-21,79,7.2,57.0,3316,G,usa_other,english_other,0.57,0.72,0.645,0.645,good,good
+tt6141006,movie,Drain the Ocean: WWII,Mike Slee,English,USA,2016,2016-09-19,44,7.2,,49,TV-PG,usa,english,,0.72,,0.72,good,good
+tt6279452,movie,Expedition Mars,,English,USA,2016,2016-11-16,88,8.1,,18,,usa,english,,0.8099999999999999,,0.8099999999999999,good,good
+tt2277860,movie,Finding Dory,"Andrew Stanton, Angus MacLane(co-director)","English, Indonesian",USA,2016,2016-06-17,97,7.3,77.0,227414,PG,usa,english_other,0.77,0.73,0.75,0.75,good,good
+tt5648768,movie,How Dogs Got Their Shapes,Keith Haskel,English,USA,2016,2016-04-17,,6.8,,34,,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt5480340,movie,Ice Age: The Great Egg-Scapade,"Paul Stodolny, Ricardo Curtis, Steve Martino, Mike Thurmeier",English,USA,2016,2016-03-20,25,5.9,,2814,TV-PG,usa,english,,0.5900000000000001,,0.5900000000000001,bad,mid
+tt3498820,movie,Captain America: Civil War,"Anthony Russo, Joe Russo","English, German, Xhosa, Russian, Romanian, Hindi",USA,2016,2016-05-06,147,7.8,75.0,628016,PG-13,usa,english_other,0.75,0.78,0.765,0.765,good,good
+tt1211837,movie,Doctor Strange,Scott Derrickson,English,USA,2016,2016-11-04,115,7.5,72.0,562696,PG-13,usa,english,0.72,0.75,0.735,0.735,good,good
+tt3521164,movie,Moana,"Ron Clements, John Musker, Don Hall(co-director), Chris Williams(co-director)",English,USA,2016,2016-11-23,107,7.6,81.0,250176,PG,usa,english,0.81,0.76,0.785,0.785,good,good
+tt2788732,movie,Pete's Dragon,David Lowery,English,USA,2016,2016-08-12,102,6.7,71.0,52020,PG,usa,english,0.71,0.67,0.69,0.69,bad,mid
+tt5613056,movie,Piper,Alan Barillaro,,USA,2016,2016-06-17,6,8.4,,24041,G,usa,,,0.8400000000000001,,0.8400000000000001,good,good
+tt4341582,movie,Queen of Katwe,Mira Nair,English,USA,2016,2016-09-30,124,7.4,73.0,14265,PG,usa,english,0.73,0.74,0.735,0.735,good,good
+tt3748528,movie,Rogue One: A Star Wars Story,Gareth Edwards,English,USA,2016,2016-12-16,133,7.8,65.0,526836,PG-13,usa,english,0.65,0.78,0.7150000000000001,0.7150000000000001,good,good
+tt3691740,movie,The BFG,Steven Spielberg,English,"USA, India, UK",2016,2016-07-01,117,6.4,66.0,73906,PG,usa_other,english,0.66,0.64,0.65,0.65,bad,mid
+tt2025690,movie,The Finest Hours,Craig Gillespie,English,USA,2016,2016-01-29,117,6.8,58.0,59000,PG-13,usa,english,0.58,0.6799999999999999,0.6299999999999999,0.6299999999999999,bad,mid
+tt5653444,movie,The Swap,Jay Karas,English,USA,2016,2016-10-07,100,6.1,,1522,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt2948356,movie,Zootopia,"Byron Howard, Rich Moore, Jared Bush(co-director)",English,USA,2016,2016-03-04,108,8.0,78.0,410437,PG,usa,english,0.78,0.8,0.79,0.79,good,good

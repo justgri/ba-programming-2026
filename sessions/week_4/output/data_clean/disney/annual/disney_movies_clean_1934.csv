@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0025200,movie,The Grasshopper and the Ants,Wilfred Jackson,English,USA,1934,1934-02-10,8,7.3,,1304,Approved,usa,english,,0.73,,0.73,good,good
+tt0024886,movie,The Big Bad Wolf,Burt Gillett,English,USA,1934,1934-04-14,9,7.1,,1381,Approved,usa,english,,0.71,,0.71,good,good
+tt0025184,movie,The Goddess of Spring,Wilfred Jackson,English,USA,1934,1934-11-03,10,6.9,,483,APPROVED,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0025997,movie,The Wise Little Hen,Wilfred Jackson,English,USA,1934,1934-06-07,8,7.1,,1567,,usa,english,,0.71,,0.71,good,good

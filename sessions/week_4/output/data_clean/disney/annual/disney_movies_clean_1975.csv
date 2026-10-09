@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0072951,movie,Escape to Witch Mountain,John Hough,English,USA,1975,1975-03-21,97,6.4,60.0,8810,G,usa,english,0.6,0.64,0.62,0.62,bad,mid
+tt0072653,movie,The Apple Dumpling Gang,Norman Tokar,English,USA,1975,1975-07-01,100,6.5,59.0,4710,G,usa,english,0.59,0.65,0.62,0.62,bad,mid
+tt0072728,movie,The Boy Who Talked to Badgers,Gary Nelson,English,USA,1975,1975-09-14,,6.8,,25,,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0073760,movie,The Strongest Man in the World,Vincent McEveety,English,USA,1975,1975-02-06,92,6.1,63.0,2531,G,usa,english,0.63,0.61,0.62,0.62,bad,mid

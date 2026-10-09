@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0039263,movie,Chip an' Dale,Jack Hannah,English,USA,1947,1947-11-28,7,7.4,,1223,Approved,usa,english,,0.74,,0.74,good,good
+tt0039404,movie,Fun and Fancy Free,"Jack Kinney, Hamilton Luske, William Morgan, Bill Roberts",English,USA,1947,1948-03-12,73,6.6,66.0,6454,Approved,usa,english,0.66,0.6599999999999999,0.6599999999999999,0.6599999999999999,bad,mid
+tt0039628,movie,Miracle on 34th Street,George Seaton,"English, Dutch",USA,1947,1947-10-02,96,7.9,88.0,38715,Not Rated,usa,english_other,0.88,0.79,0.835,0.835,good,good

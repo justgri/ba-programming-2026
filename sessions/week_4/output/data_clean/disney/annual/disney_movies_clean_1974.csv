@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0071607,movie,Herbie Rides Again,Robert Stevenson,English,USA,1974,1974-06-06,88,5.7,49.0,7035,G,usa,english,0.49,0.5700000000000001,0.53,0.53,bad,mid
+tt0071199,movie,The Bears and I,Bernard McEveety,English,USA,1974,1974-07-31,89,6.2,,253,G,usa,english,,0.62,,0.62,bad,mid
+tt0071288,movie,The Castaway Cowboy,Vincent McEveety,English,USA,1974,1974-08-01,91,5.9,,421,G,usa,english,,0.5900000000000001,,0.5900000000000001,bad,mid

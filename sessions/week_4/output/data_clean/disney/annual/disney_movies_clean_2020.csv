@@ -1,0 +1,13 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt12076020,movie,A Celebration of the Music from Coco,Ron de Moraes,English,USA,2020,2020-04-10,,7.6,,35,,usa,english,,0.76,,0.76,good,good
+tt12100080,movie,Diving with Dolphins,Keith Scholey,English,USA,2020,2020-04-03,79,7.4,,18,,usa,english,,0.74,,0.74,good,good
+tt10055028,movie,Dolphin Reef,Keith Scholey,English,USA,2020,2020-04-03,77,7.6,79.0,566,G,usa,english,0.79,0.76,0.775,0.775,good,good
+tt12036052,movie,Elephant,"Mark Linfield, Vanessa Berlowitz(co-director)",English,,2020,2020-04-03,,4.7,63.0,61,,,english,0.63,0.47000000000000003,0.55,0.55,bad,bad
+tt12100044,movie,In the Footsteps of Elephant,"Vanessa Berlowitz, Tom Stephens(co-director)",English,USA,2020,2020-04-03,85,8.1,,17,G,usa,english,,0.8099999999999999,,0.8099999999999999,good,good
+tt10167262,movie,Lamp Life,Valerie LaPointe,English,USA,2020,2020-01-31,7,6.7,,980,,usa,english,,0.67,,0.67,bad,mid
+tt9536836,movie,Loop,Erica Milsom,English,USA,2020,2020-01-10,9,6.7,,362,PG,usa,english,,0.67,,0.67,bad,mid
+tt11898442,movie,Playdate with Destiny,David Silverman,English,USA,2020,2020-03-06,5,6.7,,686,G,usa,english,,0.67,,0.67,bad,mid
+tt7146812,movie,Onward,Dan Scanlon,English,USA,2020,2020-03-06,102,7.5,61.0,45444,PG,usa,english,0.61,0.75,0.6799999999999999,0.6799999999999999,good,good
+tt12080904,movie,Penguins: Life on the Edge,"Alastair Fothergill, Jeff Wilson",English,USA,2020,2020-04-03,78,6.7,,6,G,usa,english,,0.67,,0.67,bad,mid
+tt4858674,movie,Stargirl,Julia Hart,English,USA,2020,2020-03-13,107,6.2,60.0,2130,PG,usa,english,0.6,0.62,0.61,0.61,bad,mid
+tt6820324,movie,Timmy Failure: Mistakes Were Made,Tom McCarthy,English,USA,2020,2020-02-07,99,6.1,60.0,1300,PG,usa,english,0.6,0.61,0.605,0.605,bad,mid

@@ -1,0 +1,16 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt1014759,movie,Alice in Wonderland,Tim Burton,English,USA,2010,2010-03-05,108,6.4,53.0,371772,PG,usa,english,0.53,0.64,0.585,0.585,bad,mid
+tt1252380,movie,Camp Rock 2: The Final Jam,Paul Hoen,English,USA,2010,2010-09-03,97,5.2,,15387,TV-G,usa,english,,0.52,,0.52,bad,mid
+tt1620446,movie,Day & Night,Teddy Newton,English,USA,2010,2010-06-18,6,8.1,,16108,G,usa,english,,0.8099999999999999,,0.8099999999999999,good,good
+tt1196141,movie,Diary of a Wimpy Kid,Thor Freudenthal,"English, German","USA, UK",2010,2010-03-19,120,6.2,56.0,40808,PG,usa_other,english_other,0.56,0.62,0.5900000000000001,0.5900000000000001,bad,mid
+tt1614950,movie,Avalon High,Stuart Gillard,English,USA,2010,2010-11-12,90,5.7,,5133,TV-G,usa,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt1376699,movie,Den Brother,Mark L. Taylor,English,USA,2010,2010-08-13,89,5.4,,1666,Not Rated,usa,english,,0.54,,0.54,bad,mid
+tt1228705,movie,Iron Man 2,Jon Favreau,"English, French, Russian",USA,2010,2010-05-07,124,7.0,57.0,693517,PG-13,usa,english_other,0.57,0.7,0.635,0.635,good,good
+tt1028576,movie,Secretariat,Randall Wallace,English,USA,2010,2010-10-08,123,7.2,61.0,25455,PG,usa,english,0.61,0.72,0.665,0.665,good,good
+tt8780664,movie,Secrets of the King Cobra,,English,India,2010,2010-04-10,,7.2,,6,,other,english,,0.72,,0.72,good,good
+tt1579247,movie,StarStruck,Michael Grossman,English,USA,2010,2010-02-14,90,6.1,,12305,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt0398286,movie,Tangled,"Nathan Greno, Byron Howard",English,USA,2010,2010-11-24,100,7.7,71.0,390220,PG,usa,english,0.71,0.77,0.74,0.74,good,good
+tt1294226,movie,The Last Song,Julie Anne Robinson,English,USA,2010,2010-03-31,107,6.0,33.0,78380,PG,usa,english,0.33,0.6,0.46499999999999997,0.46499999999999997,bad,mid
+tt1216515,movie,Tinker Bell and the Great Fairy Rescue,Bradley Raymond,English,USA,2010,2010-09-21,76,6.9,,7103,G,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0435761,movie,Toy Story 3,Lee Unkrich,"English, Spanish",USA,2010,2010-06-18,103,8.3,92.0,729086,G,usa,english_other,0.92,0.8300000000000001,0.875,0.875,good,good
+tt1104001,movie,TRON: Legacy,Joseph Kosinski,English,USA,2010,2010-12-17,125,6.8,49.0,306175,PG,usa,english,0.49,0.6799999999999999,0.585,0.585,bad,mid

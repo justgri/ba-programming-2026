@@ -1,0 +1,4 @@
+pandas
+openpyxl
+streamlit>=1.54,<2
+matplotlib

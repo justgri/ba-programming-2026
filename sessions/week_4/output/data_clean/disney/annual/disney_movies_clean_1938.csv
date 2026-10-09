@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0029930,movie,Boat Builders,Ben Sharpsteen,English,USA,1938,1938-02-25,7,7.3,,993,,usa,english,,0.73,,0.73,good,good
+tt0030069,movie,Donald's Golf Game,Jack King,English,USA,1938,1938-11-04,8,6.8,,764,,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0030128,movie,Ferdinand the Bull,Dick Rickard,English,USA,1938,1938-11-25,8,7.2,,2254,Approved,usa,english,,0.72,,0.72,good,good
+tt0030448,movie,Mickey's Trailer,Ben Sharpsteen,English,USA,1938,1938-05-06,8,7.9,,2542,Not Rated,usa,english,,0.79,,0.79,good,good

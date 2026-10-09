@@ -1,0 +1,23 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0417415,movie,Aliens of the Deep,"James Cameron, Steven Quale",English,USA,2005,2005-08-25,100,6.4,71.0,2586,G,usa,english,0.71,0.64,0.675,0.675,bad,mid
+tt0317132,movie,Because of Winn-Dixie,Wayne Wang,English,USA,2005,2005-02-18,106,6.3,54.0,10040,PG,usa,english,0.54,0.63,0.585,0.585,bad,mid
+tt0430932,movie,Buffalo Dreams,David Jackson,English,USA,2005,2005-03-11,89,5.8,,436,G,usa,english,,0.58,,0.58,bad,mid
+tt0371606,movie,Chicken Little,Mark Dindal,English,USA,2005,2005-11-04,81,5.7,48.0,82825,G,usa,english,0.48,0.5700000000000001,0.525,0.525,bad,mid
+tt0447987,movie,Go Figure,Francine McDougall,English,USA,2005,2005-06-10,88,5.7,,3121,TV-G,usa,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt0400497,movie,Herbie Fully Loaded,Angela Robinson,English,USA,2005,2005-06-22,101,4.8,47.0,43653,G,usa,english,0.47,0.48,0.475,0.475,bad,bad
+tt0396652,movie,Ice Princess,Tim Fywell,English,"USA, Canada",2005,2005-03-18,98,6.0,55.0,23891,G,usa_other,english,0.55,0.6,0.575,0.575,bad,mid
+tt0455565,movie,Jack-Jack Attack,Brad Bird,English,USA,2005,2008-01-11,5,7.6,,13829,Not Rated,usa,english,,0.76,,0.76,good,good
+tt0446724,movie,Kim Possible: So the Drama,Steve Loter,English,USA,2005,2005-04-08,71,7.1,,3728,TV-G,usa,english,,0.71,,0.71,good,good
+tt0401398,movie,Kronk's New Groove,"Saul Blinkoff, Elliot M. Bour",English,USA,2005,2005-12-13,75,5.8,,10599,G,usa,english,,0.58,,0.58,bad,mid
+tt0450455,movie,Life Is Ruff,Charles Haid,English,USA,2005,2005-07-15,84,4.9,,1205,TV-G,usa,english,,0.49000000000000005,,0.49000000000000005,bad,bad
+tt0457993,movie,Lilo & Stitch 2: Stitch Has a Glitch,"Michael LaBash, Tony Leondis","English, French, Spanish",USA,2005,2005-08-30,68,6.3,,11210,PG,usa,english_other,,0.63,,0.63,bad,mid
+tt0426568,movie,Now You See It...,Duwayne Dunham,English,USA,2005,2005-01-14,83,6.3,,2047,TV-G,usa,english,,0.63,,0.63,bad,mid
+tt0426148,movie,Once Upon a Mattress,Kathleen Marshall,English,USA,2005,2005-12-18,90,6.4,,1025,PG,usa,english,,0.64,,0.64,bad,mid
+tt0479113,movie,One Man Band,"Mark Andrews, Andrew Jimenez",,USA,2005,2006-06-06,4,7.7,,13993,G,usa,,,0.77,,0.77,good,good
+tt0407121,movie,Pooh's Heffalump Movie,Frank Nissen,English,USA,2005,2005-02-11,68,6.4,64.0,6031,G,usa,english,0.64,0.64,0.64,0.64,bad,mid
+tt0121766,movie,Star Wars: Episode III - Revenge of the Sith,George Lucas,English,USA,2005,2005-05-19,140,7.5,68.0,681075,PG-13,usa,english,0.68,0.75,0.7150000000000001,0.7150000000000001,good,good
+tt0363771,movie,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Andrew Adamson,"English, German, Brazilian Sign Language","UK, USA",2005,2005-12-09,143,6.9,75.0,353342,PG,usa_other,english_other,0.75,0.6900000000000001,0.72,0.72,bad,mid
+tt0388980,movie,The Greatest Game Ever Played,Bill Paxton,English,"USA, Canada",2005,2005-09-30,120,7.4,55.0,26823,PG,usa_other,english,0.55,0.74,0.645,0.645,good,good
+tt0448090,movie,The Proud Family Movie,Bruce W. Smith,English,USA,2005,2005-08-19,90,5.4,,1430,TV-G,usa,english,,0.54,,0.54,bad,mid
+tt0467421,movie,Twitches,Stuart Gillard,English,USA,2005,2005-10-14,86,5.7,,6703,TV-PG,usa,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt0361089,movie,Valiant,Gary Chapman,English,"UK, USA",2005,2005-08-19,76,5.5,45.0,20118,G,usa_other,english,0.45,0.55,0.5,0.5,bad,mid

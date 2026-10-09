@@ -1,0 +1,13 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt3856042,movie,Bad Hair Day,Erik Canuel,English,Canada,2015,2015-02-13,87,6.0,,2363,TV-G,other,english,,0.6,,0.6,bad,mid
+tt3440298,movie,Descendants,Kenny Ortega,English,USA,2015,2015-07-31,112,6.4,,14470,TV-G,usa,english,,0.64,,0.64,bad,mid
+tt3660770,movie,Monkey Kingdom,"Mark Linfield, Alastair Fothergill(co-director)",English,USA,2015,2015-04-17,81,7.3,72.0,3529,G,usa,english,0.72,0.73,0.725,0.725,good,good
+tt4743564,movie,Drain the Titanic,Jobim Sampson,English,"UK, Canada, USA",2015,,46,5.7,,41,,usa_other,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt2096673,movie,Inside Out,"Pete Docter, Ronnie Del Carmen(co-director)",English,USA,2015,2015-06-19,95,8.2,94.0,577209,PG,usa,english,0.94,0.82,0.8799999999999999,0.8799999999999999,good,good
+tt4420110,movie,Invisible Sister,Paul Hoen,English,USA,2015,2015-10-09,80,6.1,,2240,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt0478970,movie,Ant-Man,Peyton Reed,English,USA,2015,2015-07-17,117,7.3,64.0,540523,PG-13,usa,english,0.64,0.73,0.685,0.685,good,good
+tt2395427,movie,Avengers: Age of Ultron,Joss Whedon,"English, Korean",USA,2015,2015-05-01,141,7.3,66.0,711205,PG-13,usa,english_other,0.66,0.73,0.6950000000000001,0.6950000000000001,good,good
+tt4661600,movie,Sanjay's Super Team,Sanjay Patel,English,USA,2015,2015-11-25,7,6.9,,3879,PG,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt2488496,movie,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,English,USA,2015,2015-12-18,138,7.9,80.0,833706,PG-13,usa,english,0.8,0.79,0.795,0.795,good,good
+tt3764966,movie,Teen Beach 2,Jeffrey Hornaday,English,USA,2015,2015-06-26,104,6.1,,3331,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt1979388,movie,The Good Dinosaur,Peter Sohn,English,USA,2015,2015-11-25,93,6.7,66.0,97413,PG,usa,english,0.66,0.67,0.665,0.665,bad,mid

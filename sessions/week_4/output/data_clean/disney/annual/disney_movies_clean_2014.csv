@@ -1,0 +1,17 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt2245084,movie,Big Hero 6,"Don Hall, Chris Williams",English,USA,2014,2014-11-07,102,7.8,74.0,393016,PG,usa,english,0.74,0.78,0.76,0.76,good,good
+tt2762970,movie,Cloud 9,Paul Hoen,English,USA,2014,2014-01-17,85,6.6,,3482,TV-G,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt2458776,movie,Bears,"Alastair Fothergill, Keith Scholey, Adam Chapman(co-director)",English,USA,2014,2014-04-18,78,7.4,68.0,6262,G,usa,english,0.68,0.74,0.71,0.71,good,good
+tt4266692,movie,Drain the Bermuda Triangle,Jobim Sampson,English,USA,2014,2014-12-07,44,6.0,,47,,usa,english,,0.6,,0.6,bad,mid
+tt3098874,movie,How to Build a Better Boy,Paul Hoen,"English, French",USA,2014,2014-08-15,90,5.5,,2484,TV-G,usa,english_other,,0.55,,0.55,bad,mid
+tt4283838,movie,The New Yoda Chronicles: Clash of the Skywalkers,Michael Hegner,English,"Denmark, China",2014,2014-11-23,22,7.4,,54,,other,english,,0.74,,0.74,good,good
+tt3978590,movie,The New Yoda Chronicles: Raid on Coruscant,Michael Hegner,English,"Denmark, China",2014,2014-09-20,22,7.5,,65,,other,english,,0.75,,0.75,good,good
+tt3688956,movie,The New Yoda Chronicles: Escape from the Jedi Temple,Michael Hegner,English,"Denmark, China",2014,2014-05-04,22,7.5,,161,,other,english,,0.75,,0.75,good,good
+tt4128102,movie,Marvel 75 Years: From Pulp to Pop!,Zak Knutson,English,USA,2014,2014-11-04,42,7.4,,594,,usa,english,,0.74,,0.74,good,good
+tt3591568,movie,Marvel Studios: Assembling a Universe,,English,USA,2014,2014-03-18,43,7.6,,936,TV-PG,usa,english,,0.76,,0.76,good,good
+tt1843866,movie,Captain America: The Winter Soldier,"Anthony Russo, Joe Russo","English, French",USA,2014,2014-04-04,136,7.7,70.0,706555,PG-13,usa,english_other,0.7,0.77,0.735,0.735,good,good
+tt2015381,movie,Guardians of the Galaxy,James Gunn,English,USA,2014,2014-08-01,121,8.0,76.0,1007917,PG-13,usa,english,0.76,0.8,0.78,0.78,good,good
+tt3067436,movie,Miracle Landing on the Hudson,Simon George,English,USA,2014,2014-01-05,90,6.7,,67,,usa,english,,0.67,,0.67,bad,mid
+tt2281587,movie,Muppets Most Wanted,James Bobin,"English, German",USA,2014,2014-03-21,107,6.4,61.0,30336,PG,usa,english_other,0.61,0.64,0.625,0.625,bad,mid
+tt3116154,movie,Party Central,Kelsey Mann,English,USA,2014,2014-03-21,5,7.1,,1480,PG,usa,english,,0.71,,0.71,good,good
+tt3544734,movie,Zapped,Peter DeLuise,English,"Canada, USA",2014,2014-06-23,102,5.1,,3750,TV-G,usa_other,english,,0.51,,0.51,bad,mid

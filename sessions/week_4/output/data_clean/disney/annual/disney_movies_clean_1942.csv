@@ -1,0 +1,8 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0034492,movie,Bambi,"James Algar, Samuel Armstrong, David Hand, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright, Arthur Davis, Clyde Geronimi",English,USA,1942,1942-08-21,70,7.3,91.0,125824,G,usa,english,0.91,0.73,0.8200000000000001,0.8200000000000001,good,good
+tt0034873,movie,How to Fish,Jack Kinney,English,USA,1942,1942-12-04,7,7.0,,367,,usa,english,,0.7,,0.7,good,good
+tt0034874,movie,How to Play Baseball,Jack Kinney,English,USA,1942,1942-09-04,8,7.3,,462,,usa,english,,0.73,,0.73,good,good
+tt0034875,movie,How to Swim,Jack Kinney,English,USA,1942,1942-10-23,8,7.1,,386,,usa,english,,0.71,,0.71,good,good
+tt0035064,movie,Mickey's Birthday Party,Riley Thomson,English,USA,1942,1942-02-07,8,6.6,,607,Approved,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt0036326,movie,Saludos Amigos,"Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Norman Ferguson","English, Portuguese",USA,1942,1943-02-06,42,6.2,60.0,4784,Approved,usa,english_other,0.6,0.62,0.61,0.61,bad,mid
+tt0035148,movie,The Olympic Champ,Jack Kinney,English,USA,1942,1942-10-09,7,7.1,,634,Approved,usa,english,,0.71,,0.71,good,good

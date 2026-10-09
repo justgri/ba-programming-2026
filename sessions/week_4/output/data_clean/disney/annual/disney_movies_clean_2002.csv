@@ -1,0 +1,23 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0324941,movie,101 Dalmatians 2: Patch's London Adventure,"Jim Kammerud, Brian Smith",English,USA,2002,2003-01-21,74,5.8,,7434,G,usa,english,,0.58,,0.58,bad,mid
+tt0282123,movie,A Ring of Endless Light,Greg Beeman,English,USA,2002,2002-08-23,88,6.1,,1042,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt0294425,movie,Cadet Kelly,Larry Shaw,English,"USA, Canada",2002,2002-03-08,101,5.5,,12570,TV-G,usa_other,english,,0.55,,0.55,bad,mid
+tt0281905,movie,Double Teamed,Duwayne Dunham,English,USA,2002,2002-01-18,120,6.1,,2820,TV-G,usa,english,,0.61,,0.61,bad,mid
+tt0282521,movie,Get a Clue,Maggie Greenwald,English,USA,2002,2002-07-20,83,5.1,,5713,TV-G,usa,english,,0.51,,0.51,bad,mid
+tt0299943,movie,Gotta Kick It Up!,Ramón Menéndez,English,USA,2002,2002-07-26,78,5.8,,1551,TV-G,usa,english,,0.58,,0.58,bad,mid
+tt0268380,movie,Ice Age,"Chris Wedge, Carlos Saldanha(co-director)",English,USA,2002,2002-03-15,81,7.5,60.0,421204,PG,usa,english,0.6,0.75,0.675,0.675,good,good
+tt0275847,movie,Lilo & Stitch,"Dean DeBlois, Chris Sanders","English, Hawaiian",USA,2002,2002-06-21,85,7.2,73.0,160264,PG,usa,english_other,0.73,0.72,0.725,0.725,good,good
+tt0323250,movie,Mike's New Car,"Pete Docter, Roger Gould",English,USA,2002,2002-08-09,4,7.1,,11759,Not Rated,usa,english,,0.71,,0.71,good,good
+tt0280030,movie,Peter Pan 2: Return to Never Land,"Robin Budd, Donovan Cook(co-director)",English,"USA, Canada, Australia",2002,2002-02-15,72,5.8,49.0,17404,G,usa_other,english,0.49,0.58,0.5349999999999999,0.5349999999999999,bad,mid
+tt0281373,movie,Snow Dogs,Brian Levant,English,"Canada, USA",2002,2002-01-18,99,5.2,29.0,24563,PG,usa_other,english,0.29,0.52,0.405,0.405,bad,mid
+tt0121765,movie,Star Wars: Episode II - Attack of the Clones,George Lucas,English,USA,2002,2002-05-16,142,6.5,54.0,613768,PG,usa,english,0.54,0.65,0.595,0.595,bad,mid
+tt0313680,movie,Tarzan & Jane,"Steve Loter, Victor Cook, Don MacKinnon, Lisa Schaffer(co-director)",English,USA,2002,2002-07-23,75,5.4,,5264,G,usa,english,,0.54,,0.54,bad,mid
+tt0276033,movie,The Country Bears,Peter Hastings,English,USA,2002,2002-07-26,88,4.1,37.0,4769,G,usa,english,0.37,0.41,0.39,0.39,bad,bad
+tt0257778,movie,The Hunchback of Notre Dame 2: The Secret of the Bell,Bradley Raymond,English,USA,2002,2002-03-19,68,4.7,,5645,G,usa,english,,0.47000000000000003,,0.47000000000000003,bad,bad
+tt0265662,movie,The Rookie,John Lee Hancock,English,USA,2002,2002-03-29,127,6.9,72.0,31236,G,usa,english,0.72,0.6900000000000001,0.7050000000000001,0.7050000000000001,bad,mid
+tt0304669,movie,The Santa Clause 2,Michael Lembeck,English,"USA, Canada",2002,2002-11-01,104,5.6,48.0,47866,G,usa_other,english,0.48,0.5599999999999999,0.52,0.52,bad,mid
+tt0313634,movie,The Scream Team,Stuart Gillard,English,USA,2002,2002-10-11,100,6.7,,774,TV-PG,usa,english,,0.67,,0.67,bad,mid
+tt0133240,movie,Treasure Planet,"Ron Clements, John Musker",English,USA,2002,2002-11-27,95,7.2,60.0,96646,PG,usa,english,0.6,0.72,0.6599999999999999,0.6599999999999999,good,good
+tt0296251,movie,Tru Confessions,Paul Hoen,English,"USA, Canada",2002,2002-04-05,112,7.5,,2866,TV-G,usa_other,english,,0.75,,0.75,good,good
+tt0283084,movie,Tuck Everlasting,Jay Russell,"English, French",USA,2002,2002-10-11,90,6.6,66.0,20533,PG,usa,english_other,0.66,0.6599999999999999,0.6599999999999999,0.6599999999999999,bad,mid
+tt0324572,movie,Winnie the Pooh: A Very Merry Pooh Year,"Gary Katona, Ed Wexler, Jamie Mitchell",English,USA,2002,2002-11-12,65,6.8,,1781,G,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid

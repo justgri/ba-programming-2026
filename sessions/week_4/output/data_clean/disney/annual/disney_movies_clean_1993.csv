@@ -1,0 +1,10 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0106611,movie,Cool Runnings,Jon Turteltaub,"English, German, Russian",USA,1993,1993-10-01,98,7.0,60.0,88123,PG,usa,english_other,0.6,0.7,0.6499999999999999,0.6499999999999999,good,good
+tt0107120,movie,Hocus Pocus,Kenny Ortega,"English, French",USA,1993,1993-07-16,96,6.9,,89713,PG,usa,english_other,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0107131,movie,Homeward Bound: The Incredible Journey,Duwayne Dunham,English,USA,1993,1993-02-12,84,6.9,,40421,G,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0107413,movie,Life with Mikey,James Lapine,English,USA,1993,1993-06-04,91,5.6,,5221,PG,usa,english,,0.5599999999999999,,0.5599999999999999,bad,mid
+tt0107985,movie,Rookie of the Year,Daniel Stern,English,USA,1993,1993-07-07,103,6.0,53.0,23711,PG,usa,english,0.53,0.6,0.565,0.565,bad,mid
+tt0108147,movie,Sister Act 2: Back in the Habit,Bill Duke,English,USA,1993,1993-12-10,107,5.6,38.0,47046,PG,usa,english,0.38,0.5599999999999999,0.47,0.47,bad,mid
+tt0106223,movie,The Adventures of Huck Finn,Stephen Sommers,"English, French",USA,1993,1993-04-02,108,6.2,,7451,PG,usa,english_other,,0.62,,0.62,bad,mid
+tt0108333,movie,The Three Musketeers,Stephen Herek,English,"Austria, UK, USA",1993,1993-11-12,105,6.4,43.0,48683,PG,usa_other,english,0.43,0.64,0.535,0.535,bad,mid
+tt0107688,movie,The Nightmare Before Christmas,Henry Selick,English,USA,1993,1993-10-29,76,8.0,82.0,281155,PG,usa,english,0.82,0.8,0.81,0.81,good,good

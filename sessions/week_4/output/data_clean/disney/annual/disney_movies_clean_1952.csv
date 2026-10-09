@@ -1,0 +1,8 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0044821,movie,Lambert the Sheepish Lion,Jack Hannah,English,USA,1952,1952-02-08,8,7.7,,1848,Approved,usa,english,,0.77,,0.77,good,good
+tt0044835,movie,Let's Stick Together,Jack Hannah,English,USA,1952,1952-04-25,7,7.0,,221,,usa,english,,0.7,,0.7,good,good
+tt0045037,movie,Pluto's Christmas Tree,Jack Hannah,English,USA,1952,1952-11-21,7,7.7,,2023,Approved,usa,english,,0.77,,0.77,good,good
+tt0045038,movie,Pluto's Party,Milt Schaffer,English,USA,1952,1952-09-19,7,6.5,,383,Approved,usa,english,,0.65,,0.65,bad,mid
+tt0219222,movie,The Olympic Elk,James Algar,English,USA,1952,1952-02-13,27,7.2,,40,Approved,usa,english,,0.72,,0.72,good,good
+tt0045197,movie,The Story of Robin Hood and His Merrie Men,Ken Annakin,English,UK,1952,1952-06-26,84,6.7,64.0,1281,Approved,other,english,0.64,0.67,0.655,0.655,bad,mid
+tt0045314,movie,Water Birds,Ben Sharpsteen,English,USA,1952,1952-06-26,30,6.9,,111,APPROVED,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid

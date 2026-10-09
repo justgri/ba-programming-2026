@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0054649,movie,Babes in Toyland,Jack Donohue,English,USA,1961,1961-12-14,106,6.3,55.0,3228,Approved,usa,english,0.55,0.63,0.5900000000000001,0.5900000000000001,bad,mid
+tt0054944,movie,Greyfriars Bobby: The True Story of a Dog,Don Chaffey,English,USA,1961,1961-07-17,87,7.3,,1203,Approved,usa,english,,0.73,,0.73,good,good
+tt0055254,movie,One Hundred and One Dalmatians,"Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",English,USA,1961,1961-01-25,79,7.2,83.0,146668,G,usa,english,0.83,0.72,0.7749999999999999,0.7749999999999999,good,good
+tt0054594,movie,The Absent Minded Professor,Robert Stevenson,English,USA,1961,1961-03-16,92,6.8,75.0,6856,Approved,usa,english,0.75,0.6799999999999999,0.715,0.715,bad,mid
+tt0055277,movie,The Parent Trap,David Swift,English,USA,1961,1961-06-21,129,7.1,73.0,18041,Passed,usa,english,0.73,0.71,0.72,0.72,good,good

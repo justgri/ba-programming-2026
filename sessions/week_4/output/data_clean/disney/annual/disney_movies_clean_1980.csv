@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0080861,movie,Herbie Goes Bananas,Vincent McEveety,"English, Spanish",USA,1980,1980-06-25,100,5.0,55.0,4958,G,usa,english_other,0.55,0.5,0.525,0.525,bad,mid
+tt0080684,movie,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,English,USA,1980,1980-06-20,124,8.7,82.0,1109656,PG,usa,english,0.82,0.8699999999999999,0.845,0.845,good,top
+tt0080788,movie,The Ghosts of Buxley Hall,Bruce Bilson,English,USA,1980,1980-12-21,120,6.6,,97,,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid

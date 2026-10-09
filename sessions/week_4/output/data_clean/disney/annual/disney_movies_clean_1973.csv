@@ -1,0 +1,2 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0070608,movie,Robin Hood,"Wolfgang Reitherman, David Hand","English, Portuguese",USA,1973,1973-11-08,83,7.6,57.0,110712,G,usa,english_other,0.57,0.76,0.665,0.665,good,good

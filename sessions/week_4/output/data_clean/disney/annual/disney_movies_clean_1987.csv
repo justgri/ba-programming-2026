@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0092638,movie,Benji the Hunted,Joe Camp,English,USA,1987,1987-06-19,88,6.3,53.0,2629,G,usa,english,0.53,0.63,0.5800000000000001,0.5800000000000001,bad,mid
+tt0093832,movie,Red's Dream,John Lasseter,English,USA,1987,1987-07-06,4,6.4,,6019,G,usa,english,,0.64,,0.64,bad,mid
+tt0093779,movie,The Princess Bride,Rob Reiner,English,USA,1987,1987-10-09,98,8.1,77.0,377085,PG,usa,english,0.77,0.8099999999999999,0.79,0.79,good,good
+tt0094137,movie,Three Men and a Baby,Leonard Nimoy,English,USA,1987,1987-11-25,102,6.0,61.0,45155,PG,usa,english,0.61,0.6,0.605,0.605,bad,mid

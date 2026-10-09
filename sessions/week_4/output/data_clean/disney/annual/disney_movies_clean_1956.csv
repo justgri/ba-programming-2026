@@ -1,0 +1,3 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0049125,movie,Davy Crockett and the River Pirates,Norman Foster,English,USA,1956,1956-07-18,81,6.8,,1585,Approved,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0049733,movie,Secrets of Life,James Algar,English,USA,1956,1956-11-06,70,7.8,,126,Passed,usa,english,,0.78,,0.78,good,good

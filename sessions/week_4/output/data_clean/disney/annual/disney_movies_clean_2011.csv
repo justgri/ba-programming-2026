@@ -1,0 +1,23 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt1846442,movie,12 Dates of Christmas,James Hayman,English,USA,2011,2011-12-11,90,6.3,,4933,PG,usa,english,,0.63,,0.63,bad,mid
+tt1216475,movie,Cars 2,"John Lasseter, Bradford Lewis(co-director)","English, Japanese, Italian, French",USA,2011,2011-06-24,106,6.1,57.0,150876,G,usa,english_other,0.57,0.61,0.59,0.59,bad,mid
+tt1223236,movie,African Cats,"Keith Scholey, Alastair Fothergill(co-director)",English,USA,2011,2011-04-22,89,7.6,61.0,6043,G,usa,english,0.61,0.76,0.685,0.685,good,good
+tt1222816,movie,Disneynature: Wings of Life,Louie Schwartzberg,English,"USA, Panama, Mexico",2011,2013-04-16,81,7.4,,442,G,usa_other,english,,0.74,,0.74,good,good
+tt3738576,movie,Drain the Great Lakes,"Wayne Abbott, Crispin Sadler",English,"UK, Canada, USA",2011,2011-12-01,47,7.5,,10,TV-G,usa_other,english,,0.75,,0.75,good,good
+tt1835977,movie,Geek Charming,Jeffrey Hornaday,English,USA,2011,2011-11-11,94,6.4,,10723,TV-G,usa,english,,0.64,,0.64,bad,mid
+tt1828976,movie,"Good Luck Charlie, It's Christmas!",Arlene Sanford,"English, Korean",USA,2011,2011-12-02,90,6.4,,4577,TV-G,usa,english_other,,0.64,,0.64,bad,mid
+tt1957945,movie,La Luna,Enrico Casarosa,,USA,2011,2012-06-22,7,8.0,,12217,G,usa,,,0.8,,0.8,good,good
+tt1648204,movie,Lemonade Mouth,Patricia Riggen,English,USA,2011,2011-04-15,103,6.9,,13515,TV-PG,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt1305591,movie,Mars Needs Moms,Simon Wells,English,USA,2011,2011-03-11,88,5.4,49.0,20441,PG,usa,english,0.49,0.54,0.515,0.515,bad,mid
+tt0458339,movie,Captain America: The First Avenger,Joe Johnston,"English, Norwegian, French",USA,2011,2011-07-22,124,6.9,66.0,711603,PG-13,usa,english_other,0.66,0.6900000000000001,0.675,0.675,bad,mid
+tt0800369,movie,Thor,Kenneth Branagh,English,USA,2011,2011-05-06,115,7.0,57.0,717145,PG-13,usa,english,0.57,0.7,0.635,0.635,good,good
+tt1825918,movie,Phineas and Ferb the Movie: Across the 2nd Dimension,"Robert Hughes, Dan Povenmire, Jay Lender, Jeff 'Swampy' Marsh, Kyle Menke",English,USA,2011,2011-08-05,78,7.4,,7624,TV-G,usa,english,,0.74,,0.74,good,good
+tt1298650,movie,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,"English, Spanish","USA, UK",2011,2011-05-20,136,6.6,45.0,465510,PG-13,usa_other,english_other,0.45,0.6599999999999999,0.5549999999999999,0.5549999999999999,bad,mid
+tt1604171,movie,Prom,Joe Nussbaum,English,USA,2011,2011-04-29,104,5.4,50.0,14569,PG,usa,english,0.5,0.54,0.52,0.52,bad,mid
+tt1629440,movie,Sharpay's Fabulous Adventure,Michael Lembeck,English,USA,2011,2011-04-19,90,4.7,,5651,G,usa,english,,0.47000000000000003,,0.47000000000000003,bad,bad
+tt1845866,movie,Teen Spirit,Gil Junger,English,USA,2011,2011-08-07,82,5.5,,6775,TV-PG,usa,english,,0.55,,0.55,bad,mid
+tt1204342,movie,The Muppets,James Bobin,English,USA,2011,2011-11-23,103,7.1,75.0,84999,PG,usa,english,0.75,0.71,0.73,0.73,good,good
+tt1754799,movie,The Suite Life Movie,Sean McNamara,English,USA,2011,2011-03-25,79,5.3,,3051,Not Rated,usa,english,,0.53,,0.53,bad,mid
+tt1850374,movie,Toy Story Toons: Hawaiian Vacation,Gary Rydstrom,"English, Spanish",USA,2011,2011-06-24,6,7.3,,7148,G,usa,english_other,,0.73,,0.73,good,good
+tt2033372,movie,Toy Story Toons: Small Fry,"Angus MacLane, Dylan Brown",English,USA,2011,2011-11-23,7,7.1,,5326,G,usa,english,,0.71,,0.71,good,good
+tt1449283,movie,Winnie the Pooh,"Stephen J. Anderson, Don Hall",English,USA,2011,2011-07-15,63,7.2,74.0,20673,G,usa,english,0.74,0.72,0.73,0.73,good,good

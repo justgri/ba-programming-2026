@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0101414,movie,Beauty and the Beast,"Gary Trousdale, Kirk Wise","English, French",USA,1991,1991-11-22,84,8.0,95.0,404632,G,usa,english_other,0.95,0.8,0.875,0.875,good,good
+tt0102803,movie,The Rocketeer,Joe Johnston,"English, German",USA,1991,1991-06-21,108,6.5,61.0,50945,PG,usa,english_other,0.61,0.65,0.63,0.63,bad,mid
+tt0103247,movie,White Fang,Randal Kleiser,English,USA,1991,1991-01-18,107,6.7,62.0,18897,PG,usa,english,0.62,0.67,0.645,0.645,bad,mid

@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0099472,movie,DuckTales the Movie: Treasure of the Lost Lamp,Bob Hathcock,English,"France, USA",1990,1990-08-03,74,6.9,,24234,G,usa_other,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0099816,movie,Shipwrecked,Nils Gaup,English,"Norway, Sweden, USA",1990,1991-03-01,92,6.7,,2364,PG,usa_other,english,,0.67,,0.67,bad,mid
+tt0100409,movie,The Prince and the Pauper,George Scribner,English,USA,1990,1990-11-16,25,7.1,,2791,G,usa,english,,0.71,,0.71,good,good
+tt0100477,movie,The Rescuers Down Under,"Hendel Butoy, Mike Gabriel",English,USA,1990,1990-11-16,77,6.9,70.0,36509,G,usa,english,0.7,0.6900000000000001,0.6950000000000001,0.6950000000000001,bad,mid
+tt0098966,movie,Three Men and a Little Lady,Emile Ardolino,English,USA,1990,1990-11-21,104,5.4,51.0,21881,PG,usa,english,0.51,0.54,0.525,0.525,bad,mid

@@ -1,0 +1,21 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0499549,movie,Avatar,James Cameron,"English, Spanish",USA,2009,2009-12-18,162,7.8,83.0,1086714,PG-13,usa,english_other,0.83,0.78,0.8049999999999999,0.8049999999999999,good,good
+tt1570382,movie,Bizarre Dinosaurs,Jenny Kubo,English,USA,2009,2009-10-11,,6.6,,47,,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt1090750,movie,Dadnapped,Paul Hoen,English,USA,2009,2009-02-16,84,4.9,,2634,TV-G,usa,english,,0.49000000000000005,,0.49000000000000005,bad,bad
+tt1537759,movie,Dug's Special Mission,Ronnie Del Carmen,English,USA,2009,2009-11-10,5,7.0,,5161,TV-PG,usa,english,,0.7,,0.7,good,good
+tt0436339,movie,G-Force,Hoyt Yeatman,"Spanish, English",USA,2009,2009-07-24,88,5.1,41.0,41151,PG,usa,english_other,0.41,0.51,0.45999999999999996,0.45999999999999996,bad,mid
+tt1114677,movie,Hannah Montana: The Movie,Peter Chelsom,English,USA,2009,2009-04-10,102,4.4,47.0,38414,G,usa,english,0.47,0.44000000000000006,0.455,0.455,bad,bad
+tt1222818,movie,Hatching Pete,Stuart Gillard,English,USA,2009,2009-04-24,90,5.4,,2324,TV-G,usa,english,,0.54,,0.54,bad,mid
+tt1229827,movie,Jonas Brothers: The 3D Concert Experience,Bruce Hendricks,English,USA,2009,2009-02-27,76,1.5,45.0,17198,G,usa,english,0.45,0.15,0.3,0.3,bad,bad
+tt1403075,movie,Kingdom of the Blue Whale,,English,USA,2009,2009-03-08,,7.3,,77,,usa,english,,0.73,,0.73,good,good
+tt0976238,movie,Old Dogs,Walt Becker,"English, Ukrainian",USA,2009,2009-11-25,88,5.4,19.0,35534,PG,usa,english_other,0.19,0.54,0.365,0.365,bad,mid
+tt1425244,movie,Partly Cloudy,Peter Sohn,,USA,2009,2009-05-29,6,8.2,,19102,G,usa,,,0.82,,0.82,good,good
+tt1196339,movie,Princess Protection Program,Allison Liddi-Brown,English,USA,2009,2009-06-26,90,5.6,,20758,TV-G,usa,english,,0.5599999999999999,,0.5599999999999999,bad,mid
+tt1479534,movie,Skyrunners,Ralph Hemecker,English,USA,2009,2009-11-27,92,5.0,,1022,TV-PG,usa,english,,0.5,,0.5,bad,mid
+tt1368151,movie,Super Rhino,Nathan Greno,English,USA,2009,2009-03-22,4,6.3,,854,G,usa,english,,0.63,,0.63,bad,mid
+tt0780521,movie,The Princess and the Frog,"Ron Clements, John Musker","English, French",USA,2009,2009-12-11,97,7.1,73.0,117082,G,usa,english_other,0.73,0.71,0.72,0.72,good,good
+tt1216516,movie,Tinker Bell and the Lost Treasure,Klay Hall,English,USA,2009,2009-10-27,81,6.7,,9233,G,usa,english,,0.67,,0.67,bad,mid
+tt1247700,movie,Trail of the Panda,Zhong Yu,Mandarin,China,2009,,87,6.4,,139,G,other,other,,0.64,,0.64,bad,mid
+tt1049413,movie,Up,"Pete Docter, Bob Peterson(co-director)",English,USA,2009,2009-05-29,96,8.2,88.0,895906,PG,usa,english,0.88,0.82,0.85,0.85,good,good
+tt1159961,movie,Waking Sleeping Beauty,Don Hahn,English,USA,2009,2010-10-06,86,7.6,70.0,2253,PG,usa,english,0.7,0.76,0.73,0.73,good,good
+tt1369845,movie,Wizards of Waverly Place: The Movie,Lev L. Spiro,English,USA,2009,2009-08-28,94,6.2,,14540,TV-G,usa,english,,0.62,,0.62,bad,mid

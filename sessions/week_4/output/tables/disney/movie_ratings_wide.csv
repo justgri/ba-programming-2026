@@ -1,0 +1,281 @@
+imdb_id,title,year,imdb_score_100,metascore
+tt0029583,Snow White and the Seven Dwarfs,1937,76.0,95.0
+tt0032455,Fantasia,1940,78.0,96.0
+tt0032910,Pinocchio,1940,74.0,99.0
+tt0034492,Bambi,1942,73.0,91.0
+tt0038166,The Three Caballeros,1944,65.0,85.0
+tt0039628,Miracle on 34th Street,1947,79.0,88.0
+tt0041094,The Adventures of Ichabod and Mr. Toad,1949,70.0,74.0
+tt0042332,Cinderella,1950,73.0,85.0
+tt0043274,Alice in Wonderland,1951,74.0,68.0
+tt0046183,Peter Pan,1953,73.0,76.0
+tt0046672,"20,000 Leagues Under the Sea",1954,72.0,83.0
+tt0048280,Lady and the Tramp,1955,73.0,78.0
+tt0050798,Old Yeller,1957,73.0,84.0
+tt0052948,Journey to the Center of the Earth,1959,70.0,
+tt0053285,Sleeping Beauty,1959,72.0,85.0
+tt0054357,Swiss Family Robinson,1960,72.0,61.0
+tt0055254,One Hundred and One Dalmatians,1961,72.0,83.0
+tt0055277,The Parent Trap,1961,71.0,73.0
+tt0057546,The Sword in the Stone,1963,72.0,61.0
+tt0058331,Mary Poppins,1964,78.0,88.0
+tt0059742,The Sound of Music,1965,80.0,63.0
+tt0061852,The Jungle Book,1967,76.0,65.0
+tt0064603,The Love Bug,1968,65.0,48.0
+tt0065421,The Aristocats,1970,71.0,66.0
+tt0066817,Bedknobs and Broomsticks,1971,71.0,59.0
+tt0070608,Robin Hood,1973,76.0,57.0
+tt0076054,Freaky Friday,1976,63.0,51.0
+tt0076363,The Many Adventures of Winnie the Pooh,1977,76.0,
+tt0076538,Pete's Dragon,1977,64.0,46.0
+tt0076618,The Rescuers,1977,69.0,74.0
+tt0076759,Star Wars: Episode IV - A New Hope,1977,86.0,90.0
+tt0078869,The Black Hole,1979,60.0,52.0
+tt0079588,The Muppet Movie,1979,76.0,74.0
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,87.0,82.0
+tt0082406,The Fox and the Hound,1981,73.0,65.0
+tt0082474,The Great Muppet Caper,1981,72.0,70.0
+tt0084827,TRON,1982,68.0,58.0
+tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,83.0,58.0
+tt0087291,Frankenweenie,1984,73.0,
+tt0088161,Splash,1984,62.0,71.0
+tt0088814,The Black Cauldron,1985,64.0,59.0
+tt0089908,Return to Oz,1985,67.0,42.0
+tt0091059,Flight of the Navigator,1986,69.0,64.0
+tt0091149,The Great Mouse Detective,1986,72.0,73.0
+tt0093779,The Princess Bride,1987,81.0,77.0
+tt0094137,Three Men and a Baby,1987,60.0,61.0
+tt0094739,Big Business,1988,64.0,53.0
+tt0095776,Oliver & Company,1988,67.0,58.0
+tt0096438,Who Framed Roger Rabbit,1988,77.0,83.0
+tt0096446,Willow,1988,73.0,47.0
+tt0097523,"Honey, I Shrunk the Kids",1989,63.0,63.0
+tt0097757,The Little Mermaid,1989,76.0,88.0
+tt0098536,Turner & Hooch,1989,62.0,36.0
+tt0098966,Three Men and a Little Lady,1990,54.0,51.0
+tt0099472,DuckTales the Movie: Treasure of the Lost Lamp,1990,69.0,
+tt0100477,The Rescuers Down Under,1990,69.0,70.0
+tt0101414,Beauty and the Beast,1991,80.0,95.0
+tt0102803,The Rocketeer,1991,65.0,61.0
+tt0103247,White Fang,1991,67.0,62.0
+tt0103639,Aladdin,1992,80.0,86.0
+tt0104437,"Honey, I Blew Up the Kid",1992,48.0,50.0
+tt0104940,The Muppet Christmas Carol,1992,77.0,64.0
+tt0104990,Newsies,1992,70.0,46.0
+tt0105417,Sister Act,1992,64.0,51.0
+tt0106611,Cool Runnings,1993,70.0,60.0
+tt0107120,Hocus Pocus,1993,69.0,
+tt0107131,Homeward Bound: The Incredible Journey,1993,69.0,
+tt0107688,The Nightmare Before Christmas,1993,80.0,82.0
+tt0107952,Aladdin and the Return of Jafar,1994,59.0,
+tt0107985,Rookie of the Year,1993,60.0,53.0
+tt0108147,Sister Act 2: Back in the Habit,1993,56.0,38.0
+tt0108333,The Three Musketeers,1993,64.0,43.0
+tt0109287,Blank Check,1994,53.0,42.0
+tt0110006,Heavyweights,1995,66.0,42.0
+tt0110357,The Lion King,1994,85.0,88.0
+tt0111070,The Santa Clause,1994,65.0,57.0
+tt0111419,Thumbelina,1994,63.0,
+tt0113198,A Goofy Movie,1995,68.0,
+tt0114148,Pocahontas,1995,67.0,58.0
+tt0114709,Toy Story,1995,83.0,95.0
+tt0115433,101 Dalmatians,1996,57.0,49.0
+tt0115491,Aladdin and the King of Thieves,1996,64.0,
+tt0116552,Homeward Bound II: Lost in San Francisco,1996,59.0,
+tt0116583,The Hunchback of Notre Dame,1996,69.0,74.0
+tt0116669,Jack,1996,58.0,31.0
+tt0116683,James and the Giant Peach,1996,67.0,78.0
+tt0116756,Kazaam,1996,30.0,24.0
+tt0117110,Muppet Treasure Island,1996,70.0,64.0
+tt0118998,Doctor Dolittle,1998,54.0,46.0
+tt0119137,Flubber,1997,53.0,37.0
+tt0119190,George of the Jungle,1997,54.0,53.0
+tt0119282,Hercules,1997,73.0,74.0
+tt0119303,Home Alone 3,1997,45.0,
+tt0119310,"Honey, We Shrunk Ourselves!",1997,50.0,
+tt0119432,Jungle 2 Jungle,1997,52.0,42.0
+tt0120131,The Lion King 2: Simba's Pride,1998,65.0,
+tt0120363,Toy Story 2,1999,79.0,88.0
+tt0120623,A Bug's Life,1998,72.0,77.0
+tt0120751,Mighty Joe Young,1998,56.0,51.0
+tt0120762,Mulan,1998,76.0,71.0
+tt0120764,My Favorite Martian,1999,51.0,33.0
+tt0120783,The Parent Trap,1998,65.0,64.0
+tt0120910,Fantasia 2000,1999,72.0,59.0
+tt0120915,Star Wars: Episode I - The Phantom Menace,1999,65.0,51.0
+tt0120917,The Emperor's New Groove,2000,73.0,70.0
+tt0121765,Star Wars: Episode II - Attack of the Clones,2002,65.0,54.0
+tt0121766,Star Wars: Episode III - Revenge of the Sith,2005,75.0,68.0
+tt0130623,Dinosaur,2000,65.0,56.0
+tt0131409,Geri's Game,1997,79.0,
+tt0133240,Treasure Planet,2002,72.0,60.0
+tt0141369,Inspector Gadget,1999,41.0,36.0
+tt0143808,Pocahontas II: Journey to a New World,1998,49.0,
+tt0147800,10 Things I Hate About You,1999,73.0,70.0
+tt0166896,The Straight Story,1999,80.0,86.0
+tt0173886,Halloweentown,1998,68.0,
+tt0198781,"Monsters, Inc.",2001,80.0,79.0
+tt0210945,Remember the Titans,2000,78.0,48.0
+tt0211181,102 Dalmatians,2000,49.0,35.0
+tt0219854,The Kid,2000,61.0,45.0
+tt0220099,The Tigger Movie,2000,63.0,53.0
+tt0230011,Atlantis: The Lost Empire,2001,69.0,52.0
+tt0240462,Dr. Dolittle 2,2001,47.0,49.0
+tt0240684,The Little Mermaid 2: Return to the Sea,2000,56.0,
+tt0247638,The Princess Diaries,2001,63.0,52.0
+tt0248808,For the Birds,2000,80.0,
+tt0265662,The Rookie,2002,69.0,72.0
+tt0266543,Finding Nemo,2003,81.0,90.0
+tt0268380,Ice Age,2002,75.0,60.0
+tt0275847,Lilo & Stitch,2002,72.0,73.0
+tt0279967,Mulan II,2004,57.0,
+tt0280030,Peter Pan 2: Return to Never Land,2002,58.0,49.0
+tt0281373,Snow Dogs,2002,52.0,29.0
+tt0283084,Tuck Everlasting,2002,66.0,66.0
+tt0283426,The Jungle Book 2,2003,54.0,38.0
+tt0294425,Cadet Kelly,2002,55.0,
+tt0299172,Home on the Range,2004,53.0,50.0
+tt0304669,The Santa Clause 2,2002,56.0,48.0
+tt0306841,Lizzie McGuire,2003,55.0,56.0
+tt0311289,Holes,2003,70.0,71.0
+tt0317132,Because of Winn-Dixie,2005,63.0,54.0
+tt0317219,Cars,2006,71.0,73.0
+tt0317705,The Incredibles,2004,80.0,90.0
+tt0318403,The Lion King 3: Hakuna Matata,2004,66.0,
+tt0322330,Freaky Friday,2003,61.0,70.0
+tt0323250,Mike's New Car,2002,71.0,
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,80.0,63.0
+tt0327437,Around the World in 80 Days,2004,59.0,49.0
+tt0328880,Brother Bear,2003,68.0,48.0
+tt0338094,The Haunted Mansion,2003,50.0,34.0
+tt0349205,Cheaper by the Dozen,2003,59.0,46.0
+tt0349825,Miracle,2004,75.0,68.0
+tt0361089,Valiant,2005,55.0,45.0
+tt0361467,Confessions of a Teenage Drama Queen,2004,46.0,33.0
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,69.0,75.0
+tt0366777,Millions,2004,69.0,74.0
+tt0368891,National Treasure,2004,68.0,39.0
+tt0368933,The Princess Diaries 2: Royal Engagement,2004,58.0,43.0
+tt0371606,Chicken Little,2005,57.0,48.0
+tt0371746,Iron Man,2008,79.0,79.0
+tt0382932,Ratatouille,2007,80.0,96.0
+tt0383574,Pirates of the Caribbean: Dead Man's Chest,2006,73.0,53.0
+tt0385726,Glory Road,2006,72.0,58.0
+tt0388980,The Greatest Game Ever Played,2005,74.0,55.0
+tt0395479,Boundin',2003,70.0,
+tt0396555,Meet the Robinsons,2007,68.0,61.0
+tt0396652,Ice Princess,2005,60.0,55.0
+tt0397313,Eight Below,2006,73.0,64.0
+tt0397892,Bolt,2008,68.0,67.0
+tt0398286,Tangled,2010,77.0,71.0
+tt0400497,Herbie Fully Loaded,2005,48.0,47.0
+tt0401398,Kronk's New Groove,2005,58.0,
+tt0401729,John Carter,2012,66.0,51.0
+tt0405469,The Wild,2006,53.0,47.0
+tt0435761,Toy Story 3,2010,83.0,92.0
+tt0436339,G-Force,2009,51.0,41.0
+tt0445990,Invincible,2006,71.0,63.0
+tt0449088,Pirates of the Caribbean: At World's End,2007,71.0,50.0
+tt0452681,The Santa Clause 3: The Escape Clause,2006,47.0,32.0
+tt0455565,Jack-Jack Attack,2005,76.0,
+tt0457993,Lilo & Stitch 2: Stitch Has a Glitch,2005,63.0,
+tt0458339,Captain America: The First Avenger,2011,69.0,66.0
+tt0462538,The Simpsons Movie,2007,73.0,80.0
+tt0465234,National Treasure: Book of Secrets,2007,65.0,48.0
+tt0465925,Brother Bear 2,2006,62.0,
+tt0475293,High School Musical,2006,54.0,
+tt0478970,Ant-Man,2015,73.0,64.0
+tt0479113,One Man Band,2005,77.0,
+tt0485985,Red Tails,2012,59.0,46.0
+tt0492956,The Game Plan,2007,61.0,44.0
+tt0499448,The Chronicles of Narnia: Prince Caspian,2008,65.0,62.0
+tt0499549,Avatar,2009,78.0,83.0
+tt0780521,The Princess and the Frog,2009,71.0,73.0
+tt0800369,Thor,2011,70.0,57.0
+tt0810900,High School Musical 2,2007,50.0,
+tt0823671,Tinker Bell,2008,68.0,
+tt0848228,The Avengers,2012,80.0,69.0
+tt0910970,WALL·E,2008,84.0,95.0
+tt0945571,Lifted,2006,79.0,
+tt0960731,Bedtime Stories,2008,60.0,33.0
+tt0962726,High School Musical 3,2008,48.0,57.0
+tt0976238,Old Dogs,2009,54.0,19.0
+tt0997047,College Road Trip,2008,43.0,36.0
+tt1014759,Alice in Wonderland,2010,64.0,53.0
+tt1028576,Secretariat,2010,72.0,61.0
+tt1049413,Up,2009,82.0,88.0
+tt1055366,Camp Rock,2008,52.0,
+tt1104001,TRON: Legacy,2010,68.0,49.0
+tt1114677,Hannah Montana: The Movie,2009,44.0,47.0
+tt1142977,Frankenweenie,2012,69.0,74.0
+tt1185834,Star Wars: The Clone Wars,2008,59.0,35.0
+tt1196141,Diary of a Wimpy Kid,2010,62.0,56.0
+tt1196339,Princess Protection Program,2009,56.0,
+tt1204342,The Muppets,2011,71.0,75.0
+tt1211837,Doctor Strange,2016,75.0,72.0
+tt1216475,Cars 2,2011,61.0,57.0
+tt1217209,Brave,2012,71.0,69.0
+tt1217213,Secret of the Wings,2012,71.0,
+tt1228705,Iron Man 2,2010,70.0,57.0
+tt1229827,Jonas Brothers: The 3D Concert Experience,2009,15.0,45.0
+tt1245104,Presto,2008,84.0,
+tt1252380,Camp Rock 2: The Final Jam,2010,52.0,
+tt1294226,The Last Song,2010,60.0,33.0
+tt1298650,Pirates of the Caribbean: On Stranger Tides,2011,66.0,45.0
+tt1300854,Iron Man 3,2013,72.0,62.0
+tt1305591,Mars Needs Moms,2011,54.0,49.0
+tt1369845,Wizards of Waverly Place: The Movie,2009,62.0,
+tt1425244,Partly Cloudy,2009,82.0,
+tt1449283,Winnie the Pooh,2011,72.0,74.0
+tt1453405,Monsters University,2013,73.0,65.0
+tt1462769,The Odd Life of Timothy Green,2012,66.0,47.0
+tt1579247,StarStruck,2010,61.0,
+tt1604171,Prom,2011,54.0,50.0
+tt1620446,Day & Night,2010,81.0,
+tt1620680,A Wrinkle in Time,2018,42.0,53.0
+tt1648204,Lemonade Mouth,2011,69.0,
+tt1772341,Wreck-It Ralph,2012,77.0,72.0
+tt1825683,Black Panther,2018,73.0,88.0
+tt1835977,Geek Charming,2011,64.0,
+tt1843866,Captain America: The Winter Soldier,2014,77.0,70.0
+tt1957945,La Luna,2011,80.0,
+tt1979376,Toy Story 4,2019,78.0,84.0
+tt1979388,The Good Dinosaur,2015,67.0,66.0
+tt1981115,Thor: The Dark World,2013,69.0,54.0
+tt2015381,Guardians of the Galaxy,2014,80.0,76.0
+tt2025690,The Finest Hours,2016,68.0,58.0
+tt2096673,Inside Out,2015,82.0,94.0
+tt2140373,Saving Mr. Banks,2013,75.0,65.0
+tt2245084,Big Hero 6,2014,78.0,74.0
+tt2277860,Finding Dory,2016,73.0,77.0
+tt2281587,Muppets Most Wanted,2014,64.0,61.0
+tt2294629,Frozen,2013,75.0,75.0
+tt2380307,Coco,2017,84.0,81.0
+tt2395427,Avengers: Age of Ultron,2015,73.0,66.0
+tt2488496,Star Wars: Episode VII - The Force Awakens,2015,79.0,80.0
+tt2527336,Star Wars: Episode VIII - The Last Jedi,2017,70.0,85.0
+tt2788732,Pete's Dragon,2016,67.0,71.0
+tt2948356,Zootopia,2016,80.0,78.0
+tt3440298,Descendants,2015,64.0,
+tt3498820,Captain America: Civil War,2016,78.0,75.0
+tt3501632,Thor: Ragnarok,2017,79.0,74.0
+tt3521164,Moana,2016,76.0,81.0
+tt3606752,Cars 3,2017,67.0,59.0
+tt3691740,The BFG,2016,64.0,66.0
+tt3748528,Rogue One: A Star Wars Story,2016,78.0,65.0
+tt3861390,Dumbo,2019,63.0,51.0
+tt3896198,Guardians of the Galaxy Vol. 2,2017,76.0,67.0
+tt4154664,Captain Marvel,2019,69.0,64.0
+tt4154796,Avengers: Endgame,2019,84.0,78.0
+tt4341582,Queen of Katwe,2016,74.0,73.0
+tt4520988,Frozen II,2019,70.0,64.0
+tt5116302,Togo,2019,81.0,69.0
+tt5452780,Olaf's Frozen Adventure,2017,55.0,
+tt5613056,Piper,2016,84.0,
+tt5929776,Before the Flood,2016,83.0,63.0
+tt6105098,The Lion King,2019,69.0,55.0
+tt6139732,Aladdin,2019,70.0,53.0
+tt7146812,Onward,2020,75.0,61.0
+tt7775622,Free Solo,2018,82.0,83.0
+tt8075496,Bao,2018,75.0,
+tt8096832,Lady and the Tramp,2019,63.0,48.0

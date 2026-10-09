@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0059793,movie,That Darn Cat!,Robert Stevenson,"English, French",USA,1965,1965-12-02,116,6.8,71.0,5542,Approved,usa,english_other,0.71,0.6799999999999999,0.695,0.695,bad,mid
+tt0059742,movie,The Sound of Music,Robert Wise,"English, German",USA,1965,1965-04-01,172,8.0,63.0,194154,G,usa,english_other,0.63,0.8,0.7150000000000001,0.7150000000000001,good,good
+tt0059796,movie,Those Calloways,Norman Tokar,English,USA,1965,1965-03-01,131,6.8,,423,Approved,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid

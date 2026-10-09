@@ -1,0 +1,23 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt6467274,movie,Atlantis Rising,Simcha Jacobovici,English,Canada,2017,2017-01-29,93,6.8,,178,,other,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt7293698,movie,Breaking2,Martin Desmond Roe,English,USA,2017,2017-09-20,55,7.5,,42,,usa,english,,0.75,,0.75,good,good
+tt3606752,movie,Cars 3,Brian Fee,English,USA,2017,2017-06-16,102,6.7,59.0,68243,G,usa,english,0.59,0.67,0.63,0.63,bad,mid
+tt2380307,movie,Coco,"Lee Unkrich, Adrian Molina(co-director)","English, Spanish",USA,2017,2017-11-22,105,8.4,81.0,333411,PG,usa,english_other,0.81,0.8400000000000001,0.8250000000000001,0.8250000000000001,good,good
+tt7775248,movie,Decorating Disney: Holiday Magic,,English,USA,2017,2017-12-18,42,7.0,,40,,usa,english,,0.7,,0.7,good,good
+tt5117876,movie,Descendants 2,Kenny Ortega,English,USA,2017,2017-07-21,111,6.5,,7218,TV-G,usa,english,,0.65,,0.65,bad,mid
+tt7188868,movie,Diana: In Her Own Words,"Tom Jennings, David Tillman",English,UK,2017,2017-08-14,112,7.9,,1291,,other,english,,0.79,,0.79,good,good
+tt7823038,movie,Drain Alcatraz,Wayne Abbott,English,USA,2017,2017-12-19,45,5.4,,13,,usa,english,,0.54,,0.54,bad,mid
+tt7964284,movie,Drain the Sunken Pirate City,Sophie Elwin-Harris,English,UK,2017,,47,6.2,,11,,other,english,,0.62,,0.62,bad,mid
+tt7008868,movie,Earth Live,Glenn Weiss,English,USA,2017,2017-07-09,,5.6,,24,,usa,english,,0.5599999999999999,,0.5599999999999999,bad,mid
+tt7207238,movie,Jane,Brett Morgen,English,USA,2017,2017-11-24,90,7.8,87.0,3897,PG,usa,english,0.87,0.78,0.825,0.825,good,good
+tt6267732,movie,Lou,Dave Mullins,English,USA,2017,2017-06-16,7,7.9,,5581,G,usa,english,,0.79,,0.79,good,good
+tt7974952,movie,Man Among Cheetahs,,English,USA,2017,2017-12-11,,6.5,,15,,usa,english,,0.65,,0.65,bad,mid
+tt3896198,movie,Guardians of the Galaxy Vol. 2,James Gunn,English,USA,2017,2017-05-05,136,7.6,67.0,537920,PG-13,usa,english,0.67,0.76,0.7150000000000001,0.7150000000000001,good,good
+tt3501632,movie,Thor: Ragnarok,Taika Waititi,English,USA,2017,2017-11-03,130,7.9,74.0,542938,PG-13,usa,english,0.74,0.79,0.765,0.765,good,good
+tt6346162,movie,Disney's Newsies: The Broadway Musical!,"Jeff Calhoun, Brett Sullivan",English,USA,2017,2017-02-16,149,8.5,,1703,PG,usa,english,,0.85,,0.85,good,top
+tt5452780,movie,Olaf's Frozen Adventure,"Kevin Deters, Stevie Wermers",English,USA,2017,2017-10-27,22,5.5,,10650,G,usa,english,,0.55,,0.55,bad,mid
+tt6390686,movie,Sea of Hope: America's Underwater Treasures,Robert Nixon,English,USA,2017,2017-01-01,48,,,,,usa,english,,,,,,
+tt7848136,movie,The Secret of Christ's Tomb,Robert Strange,English,USA,2017,2017-12-03,,5.1,,7,,usa,english,,0.51,,0.51,bad,mid
+tt2527336,movie,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,English,USA,2017,2017-12-15,152,7.0,85.0,532835,PG-13,usa,english,0.85,0.7,0.7749999999999999,0.7749999999999999,good,good
+tt5533228,movie,Tangled: Before Ever After,"Tom Caulfield, Stephen Sandoval",English,USA,2017,2017-03-10,55,6.6,,1861,TV-Y7,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt7620568,movie,Titanic: 20 Years Later with James Cameron,Thomas C. Grane,English,USA,2017,2017-11-26,46,7.2,,273,,usa,english,,0.72,,0.72,good,good

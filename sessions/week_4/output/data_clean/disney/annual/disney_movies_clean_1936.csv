@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0027569,movie,Elmer Elephant,Wilfred Jackson,English,USA,1936,1936-03-28,9,7.0,,991,Approved,usa,english,,0.7,,0.7,good,good
+tt0027964,movie,Mickey's Rival,Wilfred Jackson,English,USA,1936,1936-06-20,8,6.9,,533,Approved,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0028390,movie,Toby Tortoise Returns,Wilfred Jackson,English,USA,1936,1936-08-22,7,7.0,,532,APPROVED,usa,english,,0.7,,0.7,good,good

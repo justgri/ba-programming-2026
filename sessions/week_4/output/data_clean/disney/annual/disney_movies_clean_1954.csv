@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0046672,movie,"20,000 Leagues Under the Sea",Richard Fleischer,English,USA,1954,1955-07-20,127,7.2,83.0,27761,G,usa,english,0.83,0.72,0.7749999999999999,0.7749999999999999,good,good
+tt0046932,movie,Dragon Around,Jack Hannah,English,USA,1954,1954-07-16,7,7.2,,345,,usa,english,,0.72,,0.72,good,good
+tt0047642,movie,The Vanishing Prairie,James Algar,English,USA,1954,1955-07-11,71,7.7,,341,Approved,usa,english,,0.77,,0.77,good,good

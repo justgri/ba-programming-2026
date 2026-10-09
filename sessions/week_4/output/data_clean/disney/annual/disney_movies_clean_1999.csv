@@ -1,0 +1,19 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0147800,movie,10 Things I Hate About You,Gil Junger,"English, French",USA,1999,1999-03-31,97,7.3,70.0,283945,PG-13,usa,english_other,0.7,0.73,0.715,0.715,good,good
+tt0207972,movie,Annie,Rob Marshall,English,USA,1999,1999-11-07,90,6.7,,4380,UNRATED,usa,english,,0.67,,0.67,bad,mid
+tt0186910,movie,Can of Worms,Paul Schneider,English,"USA, Canada",1999,1999-04-10,90,5.0,,756,TV-PG,usa_other,english,,0.5,,0.5,bad,mid
+tt0208101,movie,Don't Look Under the Bed,Kenneth Johnson,English,USA,1999,1999-10-09,100,6.9,,2421,TV-PG,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0187819,movie,Doug's 1st Movie,Maurice Joyce,English,USA,1999,1999-03-26,77,5.0,,2868,G,usa,english,,0.5,,0.5,bad,mid
+tt0120910,movie,Fantasia 2000,"James Algar, Gaëtan Brizzi, Paul Brizzi, Hendel Butoy, Francis Glebas, Eric Goldberg, Don Hahn, Pixote Hunt",English,USA,1999,2000-06-16,75,7.2,59.0,33785,G,usa,english,0.59,0.72,0.655,0.655,good,good
+tt0193187,movie,Genius,Rod Daniel,English,USA,1999,1999-08-21,82,6.3,,1570,TV-G,usa,english,,0.63,,0.63,bad,mid
+tt0219813,movie,Horse Sense,Greg Beeman,English,USA,1999,1999-11-20,92,6.2,,1485,TV-G,usa,english,,0.62,,0.62,bad,mid
+tt0141369,movie,Inspector Gadget,David Kellogg,"English, Norwegian, French, Spanish",USA,1999,1999-07-23,78,4.1,36.0,43808,PG,usa,english_other,0.36,0.41,0.385,0.385,bad,bad
+tt0206064,movie,Johnny Tsunami,Steve Boyum,English,USA,1999,1999-07-24,88,6.3,,4615,TV-G,usa,english,,0.63,,0.63,bad,mid
+tt0238414,movie,Mickey's Once Upon a Christmas,"Jun Falkenstein, Alex Mann, Bradley Raymond, Toby Shelton, Bill Speers",English,USA,1999,1999-11-09,66,7.2,,6247,Not Rated,usa,english,,0.72,,0.72,good,good
+tt0120764,movie,My Favorite Martian,Donald Petrie,English,USA,1999,1999-02-12,94,5.1,33.0,12448,PG,usa,english,0.33,0.51,0.42000000000000004,0.42000000000000004,bad,mid
+tt0192618,movie,Smart House,LeVar Burton,English,USA,1999,1999-06-26,82,6.3,,5998,TV-G,usa,english,,0.63,,0.63,bad,mid
+tt0120915,movie,Star Wars: Episode I - The Phantom Menace,George Lucas,English,USA,1999,1999-05-19,136,6.5,51.0,698744,PG,usa,english,0.51,0.65,0.5800000000000001,0.5800000000000001,bad,mid
+tt0166896,movie,The Straight Story,David Lynch,English,"France, UK, USA",1999,1999-11-03,112,8.0,86.0,77452,G,usa_other,english,0.86,0.8,0.8300000000000001,0.8300000000000001,good,good
+tt0200208,movie,The Thirteenth Year,Duwayne Dunham,English,USA,1999,1999-05-15,95,6.0,,4525,TV-G,usa,english,,0.6,,0.6,bad,mid
+tt0120363,movie,Toy Story 2,"John Lasseter, Ash Brannon(co-director), Lee Unkrich(co-director)","English, Arabic, Spanish",USA,1999,1999-11-24,92,7.9,88.0,504561,G,usa,english_other,0.88,0.79,0.835,0.835,good,good
+tt0186726,movie,Zenon: Girl of the 21st Century,Kenneth Johnson,English,USA,1999,1999-01-23,97,6.4,,6378,TV-G,usa,english,,0.64,,0.64,bad,mid

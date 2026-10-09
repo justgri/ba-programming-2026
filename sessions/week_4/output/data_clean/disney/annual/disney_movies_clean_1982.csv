@@ -1,0 +1,2 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0084827,movie,TRON,Steven Lisberger,English,USA,1982,1982-07-09,96,6.8,58.0,110110,PG,usa,english,0.58,0.6799999999999999,0.6299999999999999,0.6299999999999999,bad,mid

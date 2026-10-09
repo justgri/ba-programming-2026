@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0091059,movie,Flight of the Navigator,Randal Kleiser,English,USA,1986,1986-08-01,90,6.9,64.0,42322,PG,usa,english,0.64,0.6900000000000001,0.665,0.665,bad,mid
+tt0286639,movie,Fuzzbucket,Mick Garris,English,USA,1986,1986-05-18,46,7.6,,155,,usa,english,,0.76,,0.76,good,good
+tt0090840,movie,The Christmas Star,Alan Shapiro,English,"Canada, USA",1986,1986-12-14,94,6.5,,345,TV-G,usa_other,english,,0.65,,0.65,bad,mid
+tt0091149,movie,The Great Mouse Detective,"Ron Clements, Burny Mattinson, David Michener, John Musker","English, French, German, Italian",USA,1986,1986-07-02,74,7.2,73.0,42723,G,usa,english_other,0.73,0.72,0.725,0.725,good,good

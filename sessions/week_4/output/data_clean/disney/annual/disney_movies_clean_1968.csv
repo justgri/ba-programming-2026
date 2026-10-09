@@ -1,0 +1,3 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0062737,movie,Blackbeard's Ghost,Robert Stevenson,English,USA,1968,1968-02-08,106,6.9,71.0,4913,Approved,usa,english,0.71,0.6900000000000001,0.7,0.7,bad,mid
+tt0064603,movie,The Love Bug,Robert Stevenson,"English, Cantonese, Spanish",USA,1968,1969-03-13,108,6.5,48.0,13617,G,usa,english_other,0.48,0.65,0.565,0.565,bad,mid

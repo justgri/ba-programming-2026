@@ -1,0 +1,10 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0113198,movie,A Goofy Movie,Kevin Lima,English,"USA, Australia, France, Canada",1995,1995-04-07,78,6.8,,43655,G,usa_other,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0113538,movie,A Kid in King Arthur's Court,Michael Gottlieb,English,"USA, Hungary, UK",1995,1995-08-11,89,4.7,34.0,5479,PG,usa_other,english,0.34,0.47000000000000003,0.405,0.405,bad,bad
+tt0113104,movie,Frank and Ollie,Theodore Thomas,English,USA,1995,1995-10-20,89,7.8,,524,PG,usa,english,,0.78,,0.78,good,good
+tt0110006,movie,Heavyweights,Steven Brill,English,USA,1995,1995-02-17,100,6.6,42.0,24212,PG,usa,english,0.42,0.6599999999999999,0.5399999999999999,0.5399999999999999,bad,mid
+tt0114048,movie,Operation Dumbo Drop,Simon Wincer,"English, Vietnamese",USA,1995,1995-07-28,107,5.1,48.0,8265,PG,usa,english_other,0.48,0.51,0.495,0.495,bad,mid
+tt0114148,movie,Pocahontas,"Mike Gabriel, Eric Goldberg","English, Algonquin",USA,1995,1995-06-23,81,6.7,58.0,163209,G,usa,english_other,0.58,0.67,0.625,0.625,bad,mid
+tt0111359,movie,Tall Tale,Jeremiah S. Chechik,English,USA,1995,1995-03-24,96,5.9,,3246,PG,usa,english,,0.5900000000000001,,0.5900000000000001,bad,mid
+tt0112302,movie,Tom and Huck,Peter Hewitt,English,USA,1995,1995-12-22,97,5.5,,9519,PG,usa,english,,0.55,,0.55,bad,mid
+tt0114709,movie,Toy Story,John Lasseter,English,USA,1995,1995-11-22,81,8.3,95.0,846332,G,usa,english,0.95,0.8300000000000001,0.89,0.89,good,good

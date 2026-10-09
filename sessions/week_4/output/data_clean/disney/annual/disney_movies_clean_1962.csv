@@ -1,0 +1,3 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0055740,movie,Almost Angels,Steve Previn,English,USA,1962,1962-09-26,93,7.1,,309,Not Rated,usa,english,,0.71,,0.71,good,good
+tt1836776,movie,The Prince and the Pauper,Don Chaffey,English,UK,1962,1981-01-06,93,6.2,,33,TV-PG,other,english,,0.62,,0.62,bad,mid

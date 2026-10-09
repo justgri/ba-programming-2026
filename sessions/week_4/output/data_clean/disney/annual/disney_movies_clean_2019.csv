@@ -1,0 +1,30 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt6139732,movie,Aladdin,Guy Ritchie,"English, Arabic",USA,2019,2019-05-24,128,7.0,53.0,204537,PG,usa,english_other,0.53,0.7,0.615,0.615,good,good
+tt9782756,movie,Apollo: Missions to the Moon,Tom Jennings,English,USA,2019,2019-07-07,94,7.7,,130,Not Rated,usa,english,,0.77,,0.77,good,good
+tt8022928,movie,Descendants 3,Kenny Ortega,English,USA,2019,2019-08-02,106,6.7,,4072,TV-G,usa,english,,0.67,,0.67,bad,mid
+tt8080302,movie,Penguins,"Alastair Fothergill, Jeff Wilson",English,USA,2019,2019-04-17,76,6.9,69.0,1093,G,usa,english,0.69,0.6900000000000001,0.69,0.69,bad,mid
+tt3861390,movie,Dumbo,Tim Burton,"English, French","USA, UK, Australia, Canada",2019,2019-03-29,112,6.3,51.0,58882,PG,usa_other,english_other,0.51,0.63,0.5700000000000001,0.5700000000000001,bad,mid
+tt10719984,movie,Expedition Amelia,,,USA,2019,2019-10-20,,6.9,,10,,usa,,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt9536846,movie,Float,Bobby Rubio,English,USA,2019,2019-11-12,7,7.4,,1031,PG,usa,english,,0.74,,0.74,good,good
+tt4520988,movie,Frozen II,"Chris Buck, Jennifer Lee",English,USA,2019,2019-11-22,103,7.0,64.0,106368,PG,usa,english,0.64,0.7,0.6699999999999999,0.6699999999999999,good,good
+tt11448424,movie,High School Musical: The Musical: The Series: The Special,Clayton Cogswell,English,USA,2019,2019-12-20,23,7.8,,14,TV-G,usa,english,,0.78,,0.78,good,good
+tt9822474,movie,Into the Canyon,Peter McBride,English,USA,2019,2019-02-21,84,7.7,,94,,usa,english,,0.77,,0.77,good,good
+tt7979492,movie,Kim Possible,"Zach Lipovsky, Adam B. Stein",English,USA,2019,2019-02-15,86,3.6,,2030,TV-G,usa,english,,0.36,,0.36,bad,bad
+tt9536832,movie,Kitbull,Rosana Sullivan,English,USA,2019,2019-02-18,9,8.0,,3834,PG,usa,english,,0.8,,0.8,good,good
+tt8096832,movie,Lady and the Tramp,Charlie Bean,English,USA,2019,2019-11-12,103,6.3,48.0,12134,PG,usa,english,0.48,0.63,0.5549999999999999,0.5549999999999999,bad,mid
+tt10863978,movie,Marvel Rising: Battle of the Bands,,English,USA,2019,2019-08-28,22,5.0,,85,,usa,english,,0.5,,0.5,bad,mid
+tt9073748,movie,Marvel Rising: Chasing Ghosts,Alfred Gimeno,English,USA,2019,2019-01-16,22,4.6,,242,,usa,english,,0.45999999999999996,,0.45999999999999996,bad,bad
+tt9073746,movie,Marvel Rising: Heart of Iron,"Sol Choi, Alfred Gimeno",English,USA,2019,2019-03-31,44,4.0,,306,,usa,english,,0.4,,0.4,bad,bad
+tt11113964,movie,Marvel Rising: Operation Shuri,"Chris Rutkowski, Eric Radomski",English,USA,2019,2019-10-11,21,,,,TV-Y7-FV,usa,english,,,,,,
+tt11483514,movie,Marvel Rising: Playing with Fire,"Sol Choi, Eric Radomski",English,USA,2019,2019-12-18,44,5.5,,61,TV-Y7-FV,usa,english,,0.55,,0.55,bad,mid
+tt4154796,movie,Avengers: Endgame,"Anthony Russo, Joe Russo","English, Japanese, Xhosa, German",USA,2019,2019-04-26,181,8.4,78.0,694527,PG-13,usa,english_other,0.78,0.8400000000000001,0.81,0.81,good,good
+tt4154664,movie,Captain Marvel,"Anna Boden, Ryan Fleck",English,"USA, Australia",2019,2019-03-08,123,6.9,64.0,406778,PG-13,usa_other,english,0.64,0.6900000000000001,0.665,0.665,bad,mid
+tt5097410,movie,Noelle,Marc Lawrence,English,USA,2019,2019-11-12,100,6.2,48.0,9752,G,usa,english,0.48,0.62,0.55,0.55,bad,mid
+tt7103168,movie,Smash and Grab,Brian Larsen,English,USA,2019,2019-02-11,8,6.7,,399,PG,usa,english,,0.67,,0.67,bad,mid
+tt6105098,movie,The Lion King,Jon Favreau,"English, Xhosa, Zulu, French, Spanish","USA, UK",2019,2019-07-19,118,6.9,55.0,189877,PG,usa_other,english_other,0.55,0.6900000000000001,0.6200000000000001,0.6200000000000001,bad,mid
+tt10290670,movie,The Lost Tomb of Alexander the Great,Duncan Singh,English,UK,2019,2019-03-04,,7.2,,32,,other,english,,0.72,,0.72,good,good
+tt6897772,movie,The Little Mermaid Live!,"Hamish Hamilton, Ron Clements, John Musker",English,USA,2019,2019-11-05,83,5.5,,645,TV-PG,usa,english,,0.55,,0.55,bad,mid
+tt5116302,movie,Togo,Ericson Core,English,USA,2019,2019-12-20,113,8.1,69.0,24630,PG,usa,english,0.69,0.8099999999999999,0.75,0.75,good,good
+tt1979376,movie,Toy Story 4,Josh Cooley,English,USA,2019,2019-06-21,100,7.8,84.0,172068,G,usa,english,0.84,0.78,0.81,0.81,good,good
+tt10538348,movie,Viking Warrior Women,"David Bartlett, Sebastian Peiter","English, Swedish, German",UK,2019,2019-06-07,51,7.1,,14,,other,english_other,,0.71,,0.71,good,good
+tt9536850,movie,Wind,Edwin Chang,English,USA,2019,,,,,,,usa,english,,,,,,

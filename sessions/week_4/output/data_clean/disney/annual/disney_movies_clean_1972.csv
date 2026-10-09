@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0068789,movie,Justin Morgan Had a Horse,Hollingsworth Morse,English,USA,1972,1972-02-06,91,6.5,,125,TV-G,usa,english,,0.65,,0.65,bad,mid
+tt0069291,movie,Snowball Express,Norman Tokar,English,USA,1972,1973-06-22,93,6.5,,1355,G,usa,english,,0.65,,0.65,bad,mid
+tt0068276,movie,The Biscuit Eater,Vincent McEveety,English,USA,1972,1972-03-22,90,5.7,,281,G,usa,english,,0.5700000000000001,,0.5700000000000001,bad,mid

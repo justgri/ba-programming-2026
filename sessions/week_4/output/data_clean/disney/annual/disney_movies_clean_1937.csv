@@ -1,0 +1,7 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0028726,movie,Clock Cleaners,Ben Sharpsteen,English,USA,1937,1937-10-15,9,7.5,,1987,Approved,usa,english,,0.75,,0.75,good,good
+tt0028981,movie,Hawaiian Holiday,Ben Sharpsteen,English,USA,1937,1937-09-24,8,7.2,,823,PASSED,usa,english,,0.72,,0.72,good,good
+tt0029161,movie,Lonesome Ghosts,Burt Gillett,English,USA,1937,1937-12-24,9,7.7,,1838,,usa,english,,0.77,,0.77,good,good
+tt0029188,movie,Magician Mickey,David Hand,English,USA,1937,1937-02-06,8,7.3,,818,Approved,usa,english,,0.73,,0.73,good,good
+tt0029583,movie,Snow White and the Seven Dwarfs,"William Cottrell, David Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen",English,USA,1937,1938-02-04,83,7.6,95.0,174379,G,usa,english,0.95,0.76,0.855,0.855,good,good
+tt0029339,movie,The Old Mill,Wilfred Jackson,,USA,1937,1937-11-05,9,7.9,,3165,Approved,usa,,,0.79,,0.79,good,good

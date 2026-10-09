@@ -1,0 +1,12 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0118692,movie,Beauty and the Beast: The Enchanted Christmas,Andrew Knight,English,"Canada, USA",1997,1997-11-11,72,6.1,,8603,G,usa_other,english,,0.61,,0.61,bad,mid
+tt0163986,movie,The Brave Little Toaster to the Rescue,"Robert C. Ramirez, Patrick A. Ventura","Chinese, Mandarin, Japanese, Korean, French, English",USA,1997,1999-05-24,74,6.3,,1201,Not Rated,usa,english_other,,0.63,,0.63,bad,mid
+tt0119137,movie,Flubber,Les Mayfield,English,USA,1997,1997-11-26,93,5.3,37.0,81512,PG,usa,english,0.37,0.53,0.45,0.45,bad,mid
+tt0119190,movie,George of the Jungle,Sam Weisman,"English, Spanish",USA,1997,1997-07-16,92,5.4,53.0,68409,PG,usa,english_other,0.53,0.54,0.535,0.535,bad,mid
+tt0131409,movie,Geri's Game,Jan Pinkava,,USA,1997,1997-11-25,4,7.9,,21679,,usa,,,0.79,,0.79,good,good
+tt0119282,movie,Hercules,"Ron Clements, John Musker","English, Spanish, Greek","USA, France",1997,1997-06-20,93,7.3,74.0,195894,G,usa_other,english_other,0.74,0.73,0.735,0.735,good,good
+tt0119303,movie,Home Alone 3,Raja Gosnell,"English, Polish",USA,1997,1997-12-12,102,4.5,,101062,PG,usa,english_other,,0.45,,0.45,bad,bad
+tt0119310,movie,"Honey, We Shrunk Ourselves!",Dean Cundey,English,USA,1997,1997-03-18,74,5.0,,12439,PG,usa,english,,0.5,,0.5,bad,mid
+tt0119432,movie,Jungle 2 Jungle,John Pasquin,English,"USA, France",1997,1997-03-07,105,5.2,42.0,22111,PG,usa_other,english,0.42,0.52,0.47,0.47,bad,mid
+tt0119918,movie,Pooh's Grand Adventure: The Search for Christopher Robin,Karl Geurs,English,USA,1997,1997-08-05,76,7.1,,4850,G,usa,english,,0.71,,0.71,good,good
+tt0120317,movie,That Darn Cat,Bob Spiers,English,USA,1997,1997-02-14,89,4.7,36.0,3952,PG,usa,english,0.36,0.47000000000000003,0.41500000000000004,0.41500000000000004,bad,bad

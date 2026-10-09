@@ -1,0 +1,2 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0065421,movie,The Aristocats,Wolfgang Reitherman,English,USA,1970,1970-12-24,78,7.1,66.0,89029,G,usa,english,0.66,0.71,0.685,0.685,good,good

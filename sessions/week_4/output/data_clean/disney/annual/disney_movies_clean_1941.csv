@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0033448,movie,Canine Caddy,Clyde Geronimi,English,USA,1941,1941-05-30,7,6.7,,269,,usa,english,,0.67,,0.67,bad,mid
+tt0033460,movie,Chef Donald,Jack King,English,USA,1941,1941-12-05,7,7.3,,764,Approved,usa,english,,0.73,,0.73,good,good
+tt0033824,movie,Lend a Paw,Clyde Geronimi,English,USA,1941,1941-10-03,8,7.1,,803,APPROVED,usa,english,,0.71,,0.71,good,good
+tt0033356,movie,The Art of Skiing,"Jack Kinney, Bill Roberts",English,USA,1941,1941-11-14,8,7.3,,1061,Approved,usa,english,,0.73,,0.73,good,good
+tt0034091,movie,The Reluctant Dragon,"Alfred L. Werker, Hamilton Luske, Jack Cutting, Ub Iwerks, Jack Kinney",English,USA,1941,1941-06-20,74,6.9,,2403,Approved,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid

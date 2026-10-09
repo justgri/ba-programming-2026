@@ -1,0 +1,20 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0960731,movie,Bedtime Stories,Adam Shankman,English,USA,2008,2008-12-25,99,6.0,33.0,85524,PG,usa,english,0.33,0.6,0.46499999999999997,0.46499999999999997,bad,mid
+tt0397892,movie,Bolt,"Byron Howard, Chris Williams",English,USA,2008,2008-11-21,96,6.8,67.0,182591,PG,usa,english,0.67,0.6799999999999999,0.675,0.675,bad,mid
+tt1334585,movie,Burn-E,Angus MacLane,English,USA,2008,2008-11-18,8,7.7,,9708,G,usa,english,,0.77,,0.77,good,good
+tt1055366,movie,Camp Rock,Matthew Diamond,"English, Portuguese",USA,2008,2008-06-20,94,5.2,,28782,TV-G,usa,english_other,,0.52,,0.52,bad,mid
+tt1330219,movie,Tokyo Mater,"John Lasseter, Rob Gibbs(co-director), Victor Navone(co-director)",English,USA,2008,2008-12-12,7,6.6,,1432,G,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt0997047,movie,College Road Trip,Roger Kumble,English,USA,2008,2008-03-07,83,4.3,36.0,14974,G,usa,english,0.36,0.43,0.395,0.395,bad,bad
+tt0902967,movie,The Crimson Wing: Mystery of the Flamingos,"Matthew Aeberhard, Leander Ward",English,"USA, UK",2008,2009-09-25,78,7.3,,1024,G,usa_other,english,,0.73,,0.73,good,good
+tt1127884,movie,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,Bruce Hendricks,English,USA,2008,2008-02-01,74,2.3,59.0,8392,G,usa,english,0.59,0.22999999999999998,0.41,0.41,bad,bad
+tt0962726,movie,High School Musical 3,Kenny Ortega,English,USA,2008,2008-10-24,112,4.8,57.0,55628,G,usa,english,0.57,0.48,0.5249999999999999,0.5249999999999999,bad,bad
+tt0371746,movie,Iron Man,Jon Favreau,"Hungarian, Kurdish, Hindi, English, Persian, Urdu, Arabic",USA,2008,2008-05-02,126,7.9,79.0,910300,PG-13,usa,english_other,0.79,0.79,0.79,0.79,good,good
+tt1072755,movie,Minutemen,Lev L. Spiro,English,USA,2008,2008-01-25,98,5.8,,5182,TV-G,usa,english,,0.58,,0.58,bad,mid
+tt1245104,movie,Presto,Doug Sweetland,English,USA,2008,2008-06-27,5,8.4,,21778,G,usa,english,,0.8400000000000001,,0.8400000000000001,good,good
+tt1185834,movie,Star Wars: The Clone Wars,Dave Filoni,English,USA,2008,2008-08-15,98,5.9,35.0,53973,PG,usa,english,0.35,0.5900000000000001,0.47000000000000003,0.47000000000000003,bad,mid
+tt1245537,movie,Stonehenge: Decoded,Christopher Spencer,English,UK,2008,2008-05-01,92,6.5,,133,PG,other,english,,0.65,,0.65,bad,mid
+tt1013542,movie,The Cheetah Girls: One World,Paul Hoen,English,USA,2008,2008-08-22,90,4.7,,3779,TV-G,usa,english,,0.47000000000000003,,0.47000000000000003,bad,bad
+tt0499448,movie,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,English,"USA, Poland, Slovenia, Czech Republic, UK",2008,2008-05-16,150,6.5,62.0,187627,PG,usa_other,english,0.62,0.65,0.635,0.635,bad,mid
+tt0969647,movie,The Little Mermaid: Ariel's Beginning,Peggy Holmes,English,USA,2008,2008-08-25,77,6.3,,8001,G,usa,english,,0.63,,0.63,bad,mid
+tt0823671,movie,Tinker Bell,Bradley Raymond,English,USA,2008,2008-10-28,78,6.8,,11194,G,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0910970,movie,WALL·E,Andrew Stanton,English,USA,2008,2008-06-27,98,8.4,95.0,955757,G,usa,english,0.95,0.8400000000000001,0.895,0.895,good,good

@@ -1,0 +1,8 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0287003,movie,A Tale of Two Critters,Jack Speirs,English,USA,1977,1977-06-22,48,7.1,,59,G,usa,english,,0.71,,0.71,good,good
+tt0075807,movie,Candleshoe,Norman Tokar,English,"UK, USA",1977,1977-12-16,101,6.8,68.0,3479,G,usa_other,english,0.68,0.6799999999999999,0.6799999999999999,0.6799999999999999,bad,mid
+tt0076137,movie,Herbie Goes to Monte Carlo,Vincent McEveety,"English, French",USA,1977,1977-06-24,105,5.7,38.0,6553,G,usa,english_other,0.38,0.5700000000000001,0.47500000000000003,0.47500000000000003,bad,mid
+tt0076538,movie,Pete's Dragon,"Don Chaffey, Don Bluth",English,USA,1977,1977-11-03,128,6.4,46.0,21558,G,usa,english,0.46,0.64,0.55,0.55,bad,mid
+tt0076759,movie,Star Wars: Episode IV - A New Hope,George Lucas,English,USA,1977,1977-05-25,121,8.6,90.0,1188658,PG,usa,english,0.9,0.86,0.88,0.88,good,top
+tt0076363,movie,The Many Adventures of Winnie the Pooh,"John Lounsbery, Wolfgang Reitherman, Ben Sharpsteen",English,USA,1977,1977-03-11,74,7.6,,31065,G,usa,english,,0.76,,0.76,good,good
+tt0076618,movie,The Rescuers,"John Lounsbery, Wolfgang Reitherman, Art Stevens",English,USA,1977,1977-06-22,78,6.9,74.0,55743,G,usa,english,0.74,0.6900000000000001,0.7150000000000001,0.7150000000000001,bad,mid

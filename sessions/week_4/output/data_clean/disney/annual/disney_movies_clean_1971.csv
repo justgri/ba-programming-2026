@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0066817,movie,Bedknobs and Broomsticks,"Robert Stevenson, Ward Kimball","English, German",USA,1971,1971-12-13,117,7.1,59.0,32823,G,usa,english_other,0.59,0.71,0.6499999999999999,0.6499999999999999,good,good
+tt0067172,movie,Hacksaw,Larry Lansburgh,English,USA,1971,1971-09-26,89,6.2,,36,TV-PG,usa,english,,0.62,,0.62,bad,mid
+tt0066728,movie,The Million Dollar Duck,Vincent McEveety,English,USA,1971,1971-06-30,89,5.9,45.0,1886,G,usa,english,0.45,0.5900000000000001,0.52,0.52,bad,mid

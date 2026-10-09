@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0082017,movie,Amy,Vincent McEveety,"English, American Sign Language",USA,1981,1981-03-20,100,6.6,,236,G,usa,english_other,,0.6599999999999999,,0.6599999999999999,bad,mid
+tt0082406,movie,The Fox and the Hound,"Ted Berman, Richard Rich, Art Stevens, David Hand, Wolfgang Reitherman",English,USA,1981,1981-07-10,83,7.3,65.0,81227,G,usa,english,0.65,0.73,0.69,0.69,good,good
+tt0082474,movie,The Great Muppet Caper,Jim Henson,English,"UK, USA",1981,1981-06-26,97,7.2,70.0,12993,G,usa_other,english,0.7,0.72,0.71,0.71,good,good

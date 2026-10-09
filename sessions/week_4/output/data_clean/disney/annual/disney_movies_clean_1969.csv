@@ -1,0 +1,2 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0065566,movie,The Computer Wore Tennis Shoes,Robert Butler,English,USA,1969,1969-12-24,91,6.0,54.0,4208,G,usa,english,0.54,0.6,0.5700000000000001,0.5700000000000001,bad,mid

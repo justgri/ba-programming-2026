@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0078158,movie,Return from Witch Mountain,John Hough,English,USA,1978,1978-03-10,95,5.9,51.0,4201,G,usa,english,0.51,0.5900000000000001,0.55,0.55,bad,mid
+tt0077305,movie,The Cat from Outer Space,Norman Tokar,English,USA,1978,1978-06-09,104,6.1,58.0,4162,G,usa,english,0.58,0.61,0.595,0.595,bad,mid
+tt0078281,movie,The Small One,Don Bluth,English,USA,1978,1978-12-16,26,7.8,,1181,G,usa,english,,0.78,,0.78,good,good

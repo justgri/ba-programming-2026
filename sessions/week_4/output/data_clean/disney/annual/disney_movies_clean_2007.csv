@@ -1,0 +1,16 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0465940,movie,Cinderella 3: A Twist in Time,Frank Nissen,English,USA,2007,2007-02-06,74,5.9,,8691,G,usa,english,,0.5900000000000001,,0.5900000000000001,bad,mid
+tt0810900,movie,High School Musical 2,Kenny Ortega,English,USA,2007,2007-08-17,104,5.0,,52782,TV-G,usa,english,,0.5,,0.5,bad,mid
+tt0942378,movie,Johnny Kapahala: Back on Board,Eric Bross,English,USA,2007,2007-11-23,90,5.5,,1922,Not Rated,usa,english,,0.55,,0.55,bad,mid
+tt0805559,movie,Jump In!,Paul Hoen,English,USA,2007,2007-04-27,85,5.3,,6574,TV-G,usa,english,,0.53,,0.53,bad,mid
+tt0396555,movie,Meet the Robinsons,Stephen J. Anderson,English,USA,2007,2007-03-30,95,6.8,61.0,84040,G,usa,english,0.61,0.6799999999999999,0.645,0.645,bad,mid
+tt0465234,movie,National Treasure: Book of Secrets,Jon Turteltaub,"English, French",USA,2007,2007-12-21,124,6.5,48.0,212576,PG,usa,english_other,0.48,0.65,0.565,0.565,bad,mid
+tt0449088,movie,Pirates of the Caribbean: At World's End,Gore Verbinski,English,USA,2007,2007-05-25,169,7.1,50.0,577465,PG-13,usa,english,0.5,0.71,0.605,0.605,good,good
+tt0382932,movie,Ratatouille,"Brad Bird, Jan Pinkava(co-director)","English, French",USA,2007,2007-06-29,111,8.0,96.0,612483,G,usa,english_other,0.96,0.8,0.88,0.88,good,good
+tt0462538,movie,The Simpsons Movie,David Silverman,English,USA,2007,2007-07-27,87,7.3,80.0,302244,PG-13,usa,english,0.8,0.73,0.765,0.765,good,good
+tt1068284,movie,Snowglobe,Ron Lagomarsino,English,USA,2007,2007-12-15,86,6.0,,2043,TV-PG,usa,english,,0.6,,0.6,bad,mid
+tt0492956,movie,The Game Plan,Andy Fickman,English,USA,2007,2007-09-28,110,6.1,44.0,56291,PG,usa,english,0.44,0.61,0.525,0.525,bad,mid
+tt0817307,movie,The Sandlot: Heading Home,William Dear,English,"USA, Canada",2007,2007-05-01,96,5.0,,1746,PG,usa_other,english,,0.5,,0.5,bad,mid
+tt0496386,movie,The Secret of the Magic Gourd,Frankie Chung,"Mandarin, English","China, Hong Kong, USA",2007,2007-06-29,84,5.3,,490,G,usa_other,english_other,,0.53,,0.53,bad,mid
+tt1017465,movie,Twitches Too,Stuart Gillard,English,USA,2007,2007-10-12,83,5.8,,3961,TV-PG,usa,english,,0.58,,0.58,bad,mid
+tt1134859,movie,Your Friend the Rat,Jim Capobianco,English,USA,2007,2007-11-06,11,7.1,,4944,G,usa,english,,0.71,,0.71,good,good

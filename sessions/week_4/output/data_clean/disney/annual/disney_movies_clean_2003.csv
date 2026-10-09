@@ -1,0 +1,28 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0344864,movie,Atlantis: Milo's Return,"Victor Cook, Toby Shelton, Tad Stones","Norwegian, English",USA,2003,2003-05-20,70,5.1,,7621,G,usa,english_other,,0.51,,0.51,bad,mid
+tt0395479,movie,Boundin',"Bud Luckey, Roger Gould(co-director)",English,USA,2003,2004-11-05,5,7.0,,12312,G,usa,english,,0.7,,0.7,good,good
+tt0328880,movie,Brother Bear,"Aaron Blaise, Robert Walker","English, Inuktitut, Croatian, Serbian",USA,2003,2003-11-07,85,6.8,48.0,92453,G,usa,english_other,0.48,0.6799999999999999,0.58,0.58,bad,mid
+tt0349205,movie,Cheaper by the Dozen,Shawn Levy,English,USA,2003,2003-12-25,98,5.9,46.0,90580,PG,usa,english,0.46,0.5900000000000001,0.525,0.525,bad,mid
+tt0365109,movie,Deep Blue,"Andy Byatt, Alastair Fothergill",English,"UK, Germany",2003,2004-01-29,83,7.4,71.0,2791,G,other,english,0.71,0.74,0.725,0.725,good,good
+tt0377770,movie,Destino,Dominique Monfery,English,"France, USA",2003,2003-08-05,7,7.9,,3695,PG,usa_other,english,,0.79,,0.79,good,good
+tt0365149,movie,Eddie's Million Dollar Cook-Off,Paul Hoen,English,USA,2003,2003-07-18,110,6.0,,2304,TV-G,usa,english,,0.6,,0.6,bad,mid
+tt0266543,movie,Finding Nemo,"Andrew Stanton, Lee Unkrich(co-director)",English,"USA, Australia",2003,2003-05-30,100,8.1,90.0,911647,G,usa_other,english,0.9,0.8099999999999999,0.855,0.855,good,good
+tt0322330,movie,Freaky Friday,Mark Waters,"English, Mandarin",USA,2003,2003-08-06,97,6.1,70.0,120172,PG,usa,english_other,0.7,0.61,0.655,0.655,bad,mid
+tt0382142,movie,Full-Court Miracle,Stuart Gillard,English,USA,2003,2003-11-21,90,5.7,,816,TV-G,usa,english,,0.5700000000000001,,0.5700000000000001,bad,mid
+tt0322389,movie,George of the Jungle 2,David Grossman,English,"USA, Australia",2003,2003-10-20,87,3.3,,6039,PG,usa_other,english,,0.32999999999999996,,0.32999999999999996,bad,bad
+tt0311289,movie,Holes,Andrew Davis,English,USA,2003,2003-04-18,117,7.0,71.0,74143,PG,usa,english,0.71,0.7,0.705,0.705,good,good
+tt0301454,movie,Inspector Gadget 2,Alex Zamm,English,USA,2003,2003-03-11,89,3.4,,5423,G,usa,english,,0.33999999999999997,,0.33999999999999997,bad,bad
+tt0323642,movie,Piglet's Big Movie,Francis Glebas,English,USA,2003,2003-03-21,75,6.1,62.0,6519,G,usa,english,0.62,0.61,0.615,0.615,bad,mid
+tt0325980,movie,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,English,USA,2003,2003-07-09,143,8.0,63.0,992127,PG-13,usa,english,0.63,0.8,0.7150000000000001,0.7150000000000001,good,good
+tt0382936,movie,Recess: All Growed Down,"Howy Parkins, Brenda Piluso, Chuck Sheetz",English,USA,2003,2003-12-09,61,6.7,,571,G,usa,english,,0.67,,0.67,bad,mid
+tt0382937,movie,Recess: Taking the Fifth Grade,Howy Parkins,English,USA,2003,2003-12-09,62,6.8,,1759,G,usa,english,,0.6799999999999999,,0.6799999999999999,bad,mid
+tt0323810,movie,Right on Track,Duwayne Dunham,English,USA,2003,2003-03-21,89,6.3,,1087,TV-G,usa,english,,0.63,,0.63,bad,mid
+tt0348124,movie,Stitch! The Movie,"Tony Craig, Roberts Gannaway","Hawaiian, English",USA,2003,2003-08-25,60,6.2,,7622,G,usa,english_other,,0.62,,0.62,bad,mid
+tt0338852,movie,The Cheetah Girls,Oz Scott,"English, Spanish","Canada, USA",2003,2003-08-15,100,4.8,,6690,TV-G,usa_other,english_other,,0.48,,0.48,bad,bad
+tt0327698,movie,The Even Stevens Movie,Sean McNamara,English,USA,2003,2003-06-13,93,6.2,,6241,TV-G,usa,english,,0.62,,0.62,bad,mid
+tt0338094,movie,The Haunted Mansion,Rob Minkoff,English,USA,2003,2003-11-26,88,5.0,34.0,40276,PG,usa,english,0.34,0.5,0.42000000000000004,0.42000000000000004,bad,mid
+tt0283426,movie,The Jungle Book 2,Steve Trenbirth,English,"USA, Australia",2003,2003-02-14,72,5.4,38.0,14354,G,usa_other,english,0.38,0.54,0.46,0.46,bad,mid
+tt0306841,movie,Lizzie McGuire,Jim Fall,"English, Italian",USA,2003,2003-05-02,94,5.5,56.0,34463,PG,usa,english_other,0.56,0.55,0.555,0.555,bad,mid
+tt0318850,movie,The Young Black Stallion,Simon Wincer,English,USA,2003,2003-12-25,50,5.6,51.0,1008,G,usa,english,0.51,0.5599999999999999,0.5349999999999999,0.5349999999999999,bad,mid
+tt0384696,movie,Winnie the Pooh: Springtime with Roo,"Saul Blinkoff, Elliot M. Bour","English, Arabic",USA,2003,2004-03-09,65,6.5,,1634,G,usa,english_other,,0.65,,0.65,bad,mid
+tt0329783,movie,You Wish!,Paul Hoen,English,"New Zealand, USA",2003,2003-01-10,84,6.1,,1608,TV-G,usa_other,english,,0.61,,0.61,bad,mid

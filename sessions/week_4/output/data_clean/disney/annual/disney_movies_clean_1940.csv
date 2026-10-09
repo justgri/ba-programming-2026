@@ -1,0 +1,8 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0032401,movie,Donald's Dog Laundry,Jack King,English,USA,1940,1940-04-05,8,7.0,,572,,usa,english,,0.7,,0.7,good,good
+tt0032455,movie,Fantasia,"James Algar, Samuel Armstrong, Ford Beebe Jr., Norman Ferguson, David Hand, Jim Handley, T. Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, Ben Sharpsteen",English,USA,1940,1941-07-21,125,7.8,96.0,84999,G,usa,english,0.96,0.78,0.87,0.87,good,good
+tt0032814,movie,Mr. Duck Steps Out,Jack King,English,USA,1940,1940-06-07,8,7.5,,511,TV-G,usa,english,,0.75,,0.75,good,good
+tt0032815,movie,Mr. Mouse Takes a Trip,Clyde Geronimi,English,USA,1940,1940-11-01,8,7.2,,557,,usa,english,,0.72,,0.72,good,good
+tt0032910,movie,Pinocchio,"Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen",English,USA,1940,1940-02-23,88,7.4,99.0,124261,G,usa,english,0.99,0.74,0.865,0.865,good,good
+tt0033124,movie,Swiss Family Robinson,Edward Ludwig,English,USA,1940,1940-02-08,93,6.5,,324,,usa,english,,0.65,,0.65,bad,mid
+tt0033188,movie,Tugboat Mickey,Clyde Geronimi,English,USA,1940,1940-04-26,7,7.1,,650,,usa,english,,0.71,,0.71,good,good

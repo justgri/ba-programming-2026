@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0047864,movie,Bearly Asleep,Jack Hannah,English,USA,1955,1955-08-19,8,7.6,,254,,usa,english,,0.76,,0.76,good,good
+tt0047867,movie,Beezy Bear,Jack Hannah,English,USA,1955,1955-09-02,7,7.4,,269,,usa,english,,0.74,,0.74,good,good
+tt0047977,movie,Davy Crockett: King of the Wild Frontier,Norman Foster,"English, Spanish",USA,1955,1955-05-25,93,7.0,,3316,Approved,usa,english_other,,0.7,,0.7,good,good
+tt0048280,movie,Lady and the Tramp,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",English,USA,1955,1955-06-22,76,7.3,78.0,116990,G,usa,english,0.78,0.73,0.755,0.755,good,good
+tt0047803,movie,The African Lion,James Algar,English,USA,1955,1955-09-14,75,7.3,,286,Approved,usa,english,,0.73,,0.73,good,good

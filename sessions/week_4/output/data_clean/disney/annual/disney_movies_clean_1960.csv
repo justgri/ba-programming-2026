@@ -1,0 +1,4 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0053977,movie,Jungle Cat,James Algar,English,USA,1960,1960-10-19,69,7.4,,205,Approved,usa,english,,0.74,,0.74,good,good
+tt0054195,movie,Pollyanna,David Swift,English,USA,1960,1960-05-19,134,7.4,,8533,Approved,usa,english,,0.74,,0.74,good,good
+tt0054357,movie,Swiss Family Robinson,Ken Annakin,English,USA,1960,1960-12-21,126,7.2,61.0,13189,G,usa,english,0.61,0.72,0.665,0.665,good,good

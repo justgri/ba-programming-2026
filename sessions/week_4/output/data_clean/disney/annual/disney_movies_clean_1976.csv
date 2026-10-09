@@ -1,0 +1,5 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0076054,movie,Freaky Friday,Gary Nelson,English,USA,1976,1977-01-21,95,6.3,51.0,11109,G,usa,english,0.51,0.63,0.5700000000000001,0.5700000000000001,bad,mid
+tt0074599,movie,Gus,Vincent McEveety,English,USA,1976,1976-07-07,96,5.9,52.0,1481,G,usa,english,0.52,0.5900000000000001,0.555,0.555,bad,mid
+tt0075200,movie,The Shaggy D.A.,Robert Stevenson,English,USA,1976,1976-12-17,91,5.9,60.0,2468,G,usa,english,0.6,0.5900000000000001,0.595,0.595,bad,mid
+tt0075347,movie,Treasure of Matecumbe,Vincent McEveety,English,USA,1976,1976-07-01,117,6.3,,412,G,usa,english,,0.63,,0.63,bad,mid

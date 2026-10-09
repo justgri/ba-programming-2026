@@ -1,0 +1,3 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0040580,movie,Melody Time,"Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske",English,USA,1948,1948-05-27,75,6.4,69.0,4534,Approved,usa,english,0.69,0.64,0.665,0.665,bad,mid
+tt0040698,movie,Pluto's Purchase,Charles A. Nichols,English,USA,1948,1948-07-09,7,6.6,,138,,usa,english,,0.6599999999999999,,0.6599999999999999,bad,mid

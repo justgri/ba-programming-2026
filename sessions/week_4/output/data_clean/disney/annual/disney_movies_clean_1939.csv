@@ -1,0 +1,6 @@
+imdb_id,type,title,director,language,country,year,released_at,runtime,imdb_rating,metascore,imdb_votes,rated,country_group,language_group,metascore_pct,imdb_pct,avg_score_both,avg_score_available,quality_flag,quality_group
+tt0031086,movie,Beach Picnic,Clyde Geronimi,English,USA,1939,1939-06-09,8,6.7,,675,Approved,usa,english,,0.67,,0.67,bad,mid
+tt0031905,movie,Sea Scouts,Dick Lundy,English,USA,1939,1939-06-30,8,6.9,,556,,usa,english,,0.6900000000000001,,0.6900000000000001,bad,mid
+tt0031945,movie,Society Dog Show,Bill Roberts,English,USA,1939,1939-02-03,8,7.1,,350,,usa,english,,0.71,,0.71,good,good
+tt0031431,movie,The Hockey Champ,Jack King,English,USA,1939,1939-04-28,7,7.1,,756,Approved,usa,english,,0.71,,0.71,good,good
+tt0032071,movie,Ugly Duckling,"Jack Cutting, Clyde Geronimi",,USA,1939,1939-04-07,9,7.6,,2421,Approved,usa,,,0.76,,0.76,good,good
