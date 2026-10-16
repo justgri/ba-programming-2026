@@ -17,7 +17,7 @@ APP_ROOT = Path(__file__).resolve().parents[1]
 st.write(APP_ROOT)
 DATA = APP_ROOT / "data" / "week_5"
 
-IMAGES = DATA / "images"
+IMAGES = APP_ROOT / "src" / "images"
 
 TABLES = DATA / "raw_data"
 
