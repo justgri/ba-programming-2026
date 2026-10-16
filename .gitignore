@@ -4,3 +4,13 @@
 # Python bytecode cache
 __pycache__/
 *.py[cod]
+
+# Quiz materials: keep local until submission grading is complete
+/sessions/week_5/quiz/
+
+# Week 5 app local cache and checks
+/sessions/week_5/app/.cache/
+/sessions/week_5/app/checks/
+
+# Econometrics homework materials: keep local only
+/sessions/week_5/app/data/week_5/raw_data/econometrics/

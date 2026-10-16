@@ -1,0 +1,12 @@
+streamlit>=1.49
+toml
+numpy
+pandas
+openpyxl
+matplotlib
+plotly
+statsmodels
+scikit-learn
+scipy
+openai
+seaborn

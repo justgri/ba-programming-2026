@@ -1,0 +1,3 @@
+Borrower_Industry;Borrower_Region;Lender_Region;Lender_Industry;Offer_Set_State;Selected_Volume;Flexible_Volume;Non_Binding;Offered_Volume;Date;Valid_Until_Cleaned;Valuta_Start;End_Date;Interest;Marge;Market_Interest_Rate;Interest_Base_Rate;Maturity_days;Loantype;Day_Count_Convention;Business_Day_Convention
+Municipality/City/Region;Kanton Zuerich;Kanton Graubuenden;Region;Offered;0;1;0;15000000;28.08.2016;07.09.2016;12.09.2016;12.09.2026;0;NULL;;None;3600;swissFixedLoan;Act360;Unadjusted
+Municipality/City/Region;Kanton Zuerich;Kanton Graubuenden;Region;Offered;0;1;0;15000000;28.08.2016;07.09.2016;12.09.2016;12.09.2046;0;NULL;;None;10800;swissFixedLoan;Act360;Unadjusted

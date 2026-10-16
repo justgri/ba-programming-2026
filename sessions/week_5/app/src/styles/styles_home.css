@@ -1,0 +1,31 @@
+body .stMarkdown {
+    font-size: 18px;
+    /* font-size: 25px; */
+}
+
+html {
+    font-size: 18px;
+    /* font-size: 25px; */
+}
+
+/* Reduce gap between elements */
+[data-testid=column]:nth-of-type(n) [data-testid=stVerticalBlock] {
+    gap: 1rem;
+}
+
+
+.numbered-header{
+  font-size: clamp(1.15rem, 1vw + 0.9rem, 1.55rem) !important;
+  line-height: 1.25;
+  margin: 6px 0 4px;
+}
+
+.numbered {
+    margin-left: 20px;
+}
+
+.stImage img {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}

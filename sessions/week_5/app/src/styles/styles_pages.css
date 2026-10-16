@@ -1,0 +1,89 @@
+/* body .stMarkdownContainer {
+    font-size: 40px !important;
+} */
+
+body .stMarkdown {
+    font-size: 18px;
+}
+
+
+html {
+    font-size: 18px;
+}
+
+/* Reduce padding and margin for slider labels */
+.st-emotion-cache-xujc5b p {
+    font-size: 18px !important;
+}
+
+.stSlider .stSlider-label {
+    margin-top: 2rem !important;
+    font-size: 18px !important;
+    /* margin-bottom: -20px !important;
+    margin: 0px !important;
+    padding-top: -20px !important;
+    padding: -50px !important;
+    padding-bottom: -20px !important; */
+}
+
+/* Slider label margins */
+.st-emotion-cache-1bw7e3x {
+    margin-top: 0.2rem;
+    margin-bottom: 0px;
+}
+
+/* Reduce gap between elements */
+[data-testid=column]:nth-of-type(n) [data-testid=stVerticalBlock] {
+    gap: 0.5rem;
+}
+
+.table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Latex increase margins - doesn't work */
+span.math.math-inline span.katex span.katex-mathml {
+    margin: 20px !important;
+}
+
+
+th {
+    background-color: lightblue;
+    text-align: center;
+    padding: 1px 8px !important;
+    border: 1px solid #ddd !important;
+}
+
+td {
+    /* top/bottom and left/right together */
+    padding: 2px 8px !important;
+    border: 1px solid #ddd !important;
+}
+
+
+/* Remove extra vertical space around displayed equations from st.latex() */
+.katex-display {
+    margin-top: 0.1rem !important;   /* minimal space above equation */
+    margin-bottom: 0.1rem !important; /* a bit more space below equation */
+}
+
+/* Target the Streamlit block that wraps st.latex() to remove extra vertical gap */
+.stMarkdown div:has(.katex-display) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Optional: tighten paragraph spacing in Markdown */
+.stMarkdown p {
+    margin-top: 0.0rem !important;   /* tighter top space */
+    margin-bottom: 0.0rem;
+}
+
+.stMarkdown ul li,
+.stMarkdown ol li {
+    margin-bottom: 0.0rem;
+    margin-top: 0.0rem;
+}
