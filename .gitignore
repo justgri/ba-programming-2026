@@ -14,3 +14,10 @@ __pycache__/
 
 # Econometrics homework materials: keep local only
 /sessions/week_5/app/data/week_5/raw_data/econometrics/
+
+# Local agent working files
+/.agent-work/
+/.agents-work/
+
+# Week 6 local class preparation
+/sessions/week_6/class_prep/
